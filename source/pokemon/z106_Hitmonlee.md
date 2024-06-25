@@ -13,22 +13,22 @@
 ## Moves
 #### Level 1
 
-***Double Kick** Fighting-type Physical Move*: +5 to hit, d4+Atk damage. Hits twice in one turn.
+***Double Kick** Fighting-type Physical Move*: +5 to hit, d4+Atk damage. Hits twice in one turn. 30PP.
 
-***Meditate** Psychic-type Status Move*: Raises user's Attack by 1.
+***Meditate** Psychic-type Status Move*: Raises user's Attack by 1. 40PP.
 #### Level 33
 
-***Rolling Kick** Fighting-type Physical Move*: +3 to hit, d6+Atk damage. On a hit above 18 will cause flinching.
+***Rolling Kick** Fighting-type Physical Move*: +3 to hit, d6+Atk damage. On a hit above 18 will cause flinching. 15PP.
 #### Level 38
 
-***Jump Kick** Fighting-type Physical Move*: +4 to hit, d10+Atk damage. If it misses, the user loses half their HP.
+***Jump Kick** Fighting-type Physical Move*: +4 to hit, d10+Atk damage. If it misses, the user loses half their HP. 10PP.
 #### Level 43
 
-***Focus Energy** Normal-type Status Move*: Subsequent attacks critical hit on a 19.
+***Focus Energy** Normal-type Status Move*: Subsequent attacks critical hit on a 19. 30PP.
 #### Level 48
 
-***Hi-Jump Kick** Fighting-type Physical Move*: +4 to hit, d12+Atk damage. If it misses, the user loses half their HP.
+***Hi-Jump Kick** Fighting-type Physical Move*: +4 to hit, d12+Atk damage. If it misses, the user loses half their HP. 10PP.
 #### Level 53
 
-***Mega Kick** Normal-type Physical Move*: +2 to hit, d12+Atk damage. 
+***Mega Kick** Normal-type Physical Move*: +2 to hit, d12+Atk damage.  5PP.
 

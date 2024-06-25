@@ -126,7 +126,7 @@ for _, row in moves.iterrows():
     if attrs['acc_str'] and not attrs['dmg_str']:
         attrs['desc'] = attrs['desc'][0].lower() + attrs['desc'][1:]
     # create description
-    move_template = "***%(name)s** %(type)s-type %(categ)s Move*: %(acc_str)s%(dmg_str)s%(desc)s"
+    move_template = "***%(name)s** %(type)s-type %(categ)s Move*: %(acc_str)s%(dmg_str)s%(desc)s %(pp)sPP."
     # store content
     all_moves[key] = move_template % attrs
     # store against its type

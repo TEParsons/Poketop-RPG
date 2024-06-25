@@ -13,24 +13,24 @@
 ## Moves
 #### Level 1
 
-***Wrap** Normal-type Physical Move*: +4 to hit, d4+Atk damage. Traps opponent, damaging them for 4-5 turns.
+***Wrap** Normal-type Physical Move*: +4 to hit, d4+Atk damage. Traps opponent, damaging them for 4-5 turns. 20PP.
 
-***Leer** Normal-type Status Move*: +5 to hit, lowers opponent's Defence by 1.
+***Leer** Normal-type Status Move*: +5 to hit, lowers opponent's Defence by 1. 30PP.
 
-***Thunder Wave** Electric-type Status Move*: +4 to hit, paralyzes opponent.
+***Thunder Wave** Electric-type Status Move*: +4 to hit, paralyzes opponent. 20PP.
 #### Level 10
 
-***Thunder Wave** Electric-type Status Move*: +4 to hit, paralyzes opponent.
+***Thunder Wave** Electric-type Status Move*: +4 to hit, paralyzes opponent. 20PP.
 #### Level 20
 
-***Agility** Psychic-type Status Move*: raises user's Speed by 2.
+***Agility** Psychic-type Status Move*: raises user's Speed by 2. 30PP.
 #### Level 35
 
-***Slam** Normal-type Physical Move*: +2 to hit, d8+Atk damage. 
+***Slam** Normal-type Physical Move*: +2 to hit, d8+Atk damage.  20PP.
 #### Level 45
 
-***Dragon Rage** Dragon-type Special Move*: +5 to hit, always inflicts 40 HP.
+***Dragon Rage** Dragon-type Special Move*: +5 to hit, always inflicts 40 HP. 10PP.
 #### Level 55
 
-***Hyper Beam** Normal-type Special Move*: +4 to hit, d12+SpAtk damage. User must recharge next turn.
+***Hyper Beam** Normal-type Special Move*: +4 to hit, d12+SpAtk damage. User must recharge next turn. 5PP.
 

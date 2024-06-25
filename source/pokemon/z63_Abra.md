@@ -13,5 +13,5 @@
 ## Moves
 #### Level 1
 
-***Teleport** Psychic-type Status Move*: Allows user to flee wild battles; also warps player to last PokéCenter.
+***Teleport** Psychic-type Status Move*: Allows user to flee wild battles; also warps player to last PokéCenter. 20PP.
 

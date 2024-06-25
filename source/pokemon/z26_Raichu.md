@@ -13,9 +13,9 @@
 ## Moves
 #### Level 1
 
-***Thunder Shock** Electric-type Special Move*: +5 to hit, d4+SpAtk damage. On a hit above 18 will paralyze opponent.
+***Thunder Shock** Electric-type Special Move*: +5 to hit, d4+SpAtk damage. On a hit above 18 will paralyze opponent. 30PP.
 
-***Growl** Normal-type Status Move*: +5 to hit, lowers opponent's Attack by 1.
+***Growl** Normal-type Status Move*: +5 to hit, lowers opponent's Attack by 1. 40PP.
 
-***Thunder Wave** Electric-type Status Move*: +4 to hit, paralyzes opponent.
+***Thunder Wave** Electric-type Status Move*: +4 to hit, paralyzes opponent. 20PP.
 

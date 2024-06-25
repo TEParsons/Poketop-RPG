@@ -13,25 +13,25 @@
 ## Moves
 #### Level 1
 
-***Growl** Normal-type Status Move*: +5 to hit, lowers opponent's Attack by 1.
+***Growl** Normal-type Status Move*: +5 to hit, lowers opponent's Attack by 1. 40PP.
 
-***Tackle** Normal-type Physical Move*: +5 to hit, d4+Atk damage. 
+***Tackle** Normal-type Physical Move*: +5 to hit, d4+Atk damage.  35PP.
 #### Level 8
 
-***Scratch** Normal-type Physical Move*: +5 to hit, d4+Atk damage. 
+***Scratch** Normal-type Physical Move*: +5 to hit, d4+Atk damage.  35PP.
 #### Level 12
 
-***Double Kick** Fighting-type Physical Move*: +5 to hit, d4+Atk damage. Hits twice in one turn.
+***Double Kick** Fighting-type Physical Move*: +5 to hit, d4+Atk damage. Hits twice in one turn. 30PP.
 #### Level 17
 
-***Poison Sting** Poison-type Physical Move*: +5 to hit, d4+Atk damage. On a hit above 18 will poison the opponent.
+***Poison Sting** Poison-type Physical Move*: +5 to hit, d4+Atk damage. On a hit above 18 will poison the opponent. 35PP.
 #### Level 23
 
-***Tail Whip** Normal-type Status Move*: +5 to hit, lowers opponent's Defence by 1.
+***Tail Whip** Normal-type Status Move*: +5 to hit, lowers opponent's Defence by 1. 30PP.
 #### Level 30
 
-***Bite** Dark-type Physical Move*: +5 to hit, d6+Atk damage. On a hit above 18 will cause flinching.
+***Bite** Dark-type Physical Move*: +5 to hit, d6+Atk damage. On a hit above 18 will cause flinching. 25PP.
 #### Level 38
 
-***Fury Swipes** Normal-type Physical Move*: +3 to hit, d4+Atk damage. Hits 2-5 times in one turn.
+***Fury Swipes** Normal-type Physical Move*: +3 to hit, d4+Atk damage. Hits 2-5 times in one turn. 15PP.
 

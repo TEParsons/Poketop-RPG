@@ -13,5 +13,5 @@
 ## Moves
 #### Level 1
 
-***Transform** Normal-type Status Move*: User takes on the form and attacks of the opponent.
+***Transform** Normal-type Status Move*: User takes on the form and attacks of the opponent. 10PP.
 

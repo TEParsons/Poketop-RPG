@@ -13,7 +13,7 @@
 ## Moves
 #### Level 1
 
-***Poison Sting** Poison-type Physical Move*: +5 to hit, d4+Atk damage. On a hit above 18 will poison the opponent.
+***Poison Sting** Poison-type Physical Move*: +5 to hit, d4+Atk damage. On a hit above 18 will poison the opponent. 35PP.
 
-***String Shot** Bug-type Status Move*: +4 to hit, lowers opponent's Speed by 2.
+***String Shot** Bug-type Status Move*: +4 to hit, lowers opponent's Speed by 2. 40PP.
 

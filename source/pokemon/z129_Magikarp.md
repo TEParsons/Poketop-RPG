@@ -13,8 +13,8 @@
 ## Moves
 #### Level 1
 
-***Splash** Normal-type Status Move*: Doesn't do ANYTHING.
+***Splash** Normal-type Status Move*: Doesn't do ANYTHING. 40PP.
 #### Level 15
 
-***Tackle** Normal-type Physical Move*: +5 to hit, d4+Atk damage. 
+***Tackle** Normal-type Physical Move*: +5 to hit, d4+Atk damage.  35PP.
 

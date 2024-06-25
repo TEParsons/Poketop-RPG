@@ -13,23 +13,23 @@
 ## Moves
 #### Level 1
 
-***Fury Attack** Normal-type Physical Move*: +3 to hit, d4+Atk damage. Hits 2-5 times in one turn.
+***Fury Attack** Normal-type Physical Move*: +3 to hit, d4+Atk damage. Hits 2-5 times in one turn. 20PP.
 #### Level 12
 
-***Fury Attack** Normal-type Physical Move*: +3 to hit, d4+Atk damage. Hits 2-5 times in one turn.
+***Fury Attack** Normal-type Physical Move*: +3 to hit, d4+Atk damage. Hits 2-5 times in one turn. 20PP.
 #### Level 16
 
-***Focus Energy** Normal-type Status Move*: Subsequent attacks critical hit on a 19.
+***Focus Energy** Normal-type Status Move*: Subsequent attacks critical hit on a 19. 30PP.
 #### Level 20
 
-***Twineedle** Bug-type Physical Move*: +5 to hit, d4+Atk damage. Hits twice in one turn. On a hit above 18 will poison opponent.
+***Twineedle** Bug-type Physical Move*: +5 to hit, d4+Atk damage. Hits twice in one turn. On a hit above 18 will poison opponent. 20PP.
 #### Level 25
 
-***Rage** Normal-type Physical Move*: +5 to hit, d4+Atk damage. Raises user's Attack by 1. when hit.
+***Rage** Normal-type Physical Move*: +5 to hit, d4+Atk damage. Raises user's Attack by 1. when hit. 20PP.
 #### Level 30
 
-***Pin Missile** Bug-type Physical Move*: +4 to hit, d4+Atk damage. Hits 2-5 times in one turn.
+***Pin Missile** Bug-type Physical Move*: +4 to hit, d4+Atk damage. Hits 2-5 times in one turn. 20PP.
 #### Level 35
 
-***Agility** Psychic-type Status Move*: raises user's Speed by 2.
+***Agility** Psychic-type Status Move*: raises user's Speed by 2. 30PP.
 

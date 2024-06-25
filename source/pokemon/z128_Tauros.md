@@ -13,20 +13,20 @@
 ## Moves
 #### Level 1
 
-***Tackle** Normal-type Physical Move*: +5 to hit, d4+Atk damage. 
+***Tackle** Normal-type Physical Move*: +5 to hit, d4+Atk damage.  35PP.
 #### Level 21
 
-***Stomp** Normal-type Physical Move*: +5 to hit, d6+Atk damage. On a hit above 18 will cause flinching.
+***Stomp** Normal-type Physical Move*: +5 to hit, d6+Atk damage. On a hit above 18 will cause flinching. 20PP.
 #### Level 28
 
-***Tail Whip** Normal-type Status Move*: +5 to hit, lowers opponent's Defence by 1.
+***Tail Whip** Normal-type Status Move*: +5 to hit, lowers opponent's Defence by 1. 30PP.
 #### Level 35
 
-***Leer** Normal-type Status Move*: +5 to hit, lowers opponent's Defence by 1.
+***Leer** Normal-type Status Move*: +5 to hit, lowers opponent's Defence by 1. 30PP.
 #### Level 44
 
-***Rage** Normal-type Physical Move*: +5 to hit, d4+Atk damage. Raises user's Attack by 1. when hit.
+***Rage** Normal-type Physical Move*: +5 to hit, d4+Atk damage. Raises user's Attack by 1. when hit. 20PP.
 #### Level 51
 
-***Take Down** Normal-type Physical Move*: +3 to hit, d8+Atk damage. User takes recoil damage equal to their Attack modifier.
+***Take Down** Normal-type Physical Move*: +3 to hit, d8+Atk damage. User takes recoil damage equal to their Attack modifier. 20PP.
 

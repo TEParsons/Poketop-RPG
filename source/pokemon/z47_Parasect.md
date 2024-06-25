@@ -13,24 +13,24 @@
 ## Moves
 #### Level 1
 
-***Scratch** Normal-type Physical Move*: +5 to hit, d4+Atk damage. 
+***Scratch** Normal-type Physical Move*: +5 to hit, d4+Atk damage.  35PP.
 
-***Stun Spore** Grass-type Status Move*: +2 to hit, paralyzes opponent.
+***Stun Spore** Grass-type Status Move*: +2 to hit, paralyzes opponent. 30PP.
 
-***Leech Life** Bug-type Physical Move*: +5 to hit, d8+Atk damage. User recovers half the HP inflicted on opponent.
+***Leech Life** Bug-type Physical Move*: +5 to hit, d8+Atk damage. User recovers half the HP inflicted on opponent. 10PP.
 #### Level 13
 
-***Stun Spore** Grass-type Status Move*: +2 to hit, paralyzes opponent.
+***Stun Spore** Grass-type Status Move*: +2 to hit, paralyzes opponent. 30PP.
 #### Level 20
 
-***Leech Life** Bug-type Physical Move*: +5 to hit, d8+Atk damage. User recovers half the HP inflicted on opponent.
+***Leech Life** Bug-type Physical Move*: +5 to hit, d8+Atk damage. User recovers half the HP inflicted on opponent. 10PP.
 #### Level 30
 
-***Spore** Grass-type Status Move*: +5 to hit, puts opponent to sleep.
+***Spore** Grass-type Status Move*: +5 to hit, puts opponent to sleep. 15PP.
 #### Level 39
 
-***Slash** Normal-type Physical Move*: +5 to hit, d6+Atk damage. Critical hits on a 19.
+***Slash** Normal-type Physical Move*: +5 to hit, d6+Atk damage. Critical hits on a 19. 20PP.
 #### Level 48
 
-***Growth** Normal-type Status Move*: Raises user's Attack and Special Attack by 1.
+***Growth** Normal-type Status Move*: Raises user's Attack and Special Attack by 1. 20PP.
 

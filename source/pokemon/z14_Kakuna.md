@@ -13,5 +13,5 @@
 ## Moves
 #### Level 1
 
-***Harden** Normal-type Status Move*: Raises user's Defence by 1.
+***Harden** Normal-type Status Move*: Raises user's Defence by 1. 30PP.
 

@@ -13,9 +13,9 @@
 ## Moves
 #### Level 1
 
-***Tackle** Normal-type Physical Move*: +5 to hit, d4+Atk damage. 
+***Tackle** Normal-type Physical Move*: +5 to hit, d4+Atk damage.  35PP.
 
-***Water Gun** Water-type Special Move*: +5 to hit, d4+SpAtk damage. 
+***Water Gun** Water-type Special Move*: +5 to hit, d4+SpAtk damage.  25PP.
 
-***Harden** Normal-type Status Move*: Raises user's Defence by 1.
+***Harden** Normal-type Status Move*: Raises user's Defence by 1. 30PP.
 
