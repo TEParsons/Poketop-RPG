@@ -1,0 +1,152 @@
+,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,96,97,98,99,name
+0,,"Tackle,Growl",,,,,,Leech Seed,,,,,,Vine Whip,,,,,,,PoisonPowder,,,,,,,Razor Leaf,,,,,,,Growth,,,,,,,Sleep Powder,,,,,,,SolarBeam,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bulbasaur
+1,,"Tackle,Growl,Leech Seed",,,,,,Leech Seed,,,,,,Vine Whip,,,,,,,,,PoisonPowder,,,,,,,,Razor Leaf,,,,,,,,Growth,,,,,,,,Sleep Powder,,,,,,,,SolarBeam,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ivysaur
+2,,"Tackle,Growl,Leech Seed,Vine Whip",,,,,,Leech Seed,,,,,,Vine Whip,,,,,,,,,PoisonPowder,,,,,,,,Razor Leaf,,,,,,,,,,,,,Growth,,,,,,,,,,,,Sleep Powder,,,,,,,,,,SolarBeam,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Venusaur
+3,,"Scratch,Growl",,,,,,,,Ember,,,,,,Leer,,,,,,,Rage,,,,,,,,Slash,,,,,,,,Flamethrower,,,,,,,,Fire Spin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Charmander
+4,,"Scratch,Growl,Ember",,,,,,,,Ember,,,,,,Leer,,,,,,,,,Rage,,,,,,,,,Slash,,,,,,,,,Flamethrower,,,,,,,,,,,,,,Fire Spin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Charmeleon
+5,,"Scratch,Growl,Ember,Leer",,,,,,,,Ember,,,,,,Leer,,,,,,,,,Rage,,,,,,,,,,,,Slash,,,,,,,,,,Flamethrower,,,,,,,,,Fire Spin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Charizard
+6,,"Tackle,Tail Whip",,,,,,,Bubble,,,,,,,Water Gun,,,,,,,Bite,,,,,,Withdraw,,,,,,,Skull Bash,,,,,,,Hydro Pump,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Squirtle
+7,,"Tackle,Tail Whip,Bubble",,,,,,,Bubble,,,,,,,Water Gun,,,,,,,,,Bite,,,,,,,Withdraw,,,,,,,,Skull Bash,,,,,,,,Hydro Pump,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wartortle
+8,,"Tackle,Tail Whip,Bubble,Water Gun",,,,,,,Bubble,,,,,,,Water Gun,,,,,,,,,Bite,,,,,,,Withdraw,,,,,,,,,,,Skull Bash,,,,,,,,,,Hydro Pump,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blastoise
+9,,"Tackle,String Shot",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Caterpie
+10,,Harden,,,,,,Harden,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Metapod
+11,,Confusion,,,,,,,,,Confusion,,,PoisonPowder,Stun Spore,Sleep Powder,,,Supersonic,,,,,Whirlwind,,,,,Gust,,,,,,Psybeam,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Butterfree
+12,,"Poison Sting,String Shot",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weedle
+13,,Harden,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kakuna
+14,,Fury Attack,,,,,,,,,,,Fury Attack,,,,Focus Energy,,,,Twineedle,,,,,Rage,,,,,Pin Missile,,,,,Agility,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Beedrill
+15,,Gust,,,,Sand-Attack,,,,,,,Quick Attack,,,,,,,Whirlwind,,,,,,,,,Wing Attack,,,,,,,,Agility,,,,,,,,Mirror Move,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pidgey
+16,,"Gust,Sand-Attack",,,,Sand-Attack,,,,,,,Quick Attack,,,,,,,,,Whirlwind,,,,,,,,,,Wing Attack,,,,,,,,,Agility,,,,,,,,,Mirror Move,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pidgeotto
+17,,"Gust,Sand-Attack,Quick Attack",,,,Sand-Attack,,,,,,,Quick Attack,,,,,,,,,Whirlwind,,,,,,,,,,Wing Attack,,,,,,,,,,,,,Agility,,,,,,,,,,Mirror Move,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pidgeot
+18,,"Tackle,Tail Whip",,,,,,Quick Attack,,,,,,,Hyper Fang,,,,,,,,,Focus Energy,,,,,,,,,,,Super Fang,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rattata
+19,,"Tackle,Tail Whip,Quick Attack",,,,,,Quick Attack,,,,,,,Hyper Fang,,,,,,,,,,,,,Focus Energy,,,,,,,,,,,,,,Super Fang,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Raticate
+20,,"Peck,Growl",,,,,,,,Leer,,,,,,Fury Attack,,,,,,,Mirror Move,,,,,,,Drill Peck,,,,,,,Agility,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Spearow
+21,,"Peck,Growl,Leer",,,,,,,,Leer,,,,,,Fury Attack,,,,,,,,,,Mirror Move,,,,,,,,,Drill Peck,,,,,,,,,Agility,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fearow
+22,,"Wrap,Leer",,,,,,,,,Poison Sting,,,,,,,Bite,,,,,,,Glare,,,,,,,Screech,,,,,,,Acid,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ekans
+23,,"Wrap,Leer,Poison Sting",,,,,,,,,Poison Sting,,,,,,,Bite,,,,,,,,,,Glare,,,,,,,,,Screech,,,,,,,,,,,Acid,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Arbok
+24,Swift,"ThunderShock,Growl",,,,,Tail Whip,,Thunder Wave,,,Quick Attack,,,,Double Team,,,,,Slam,,,,,,Thunderbolt,,,,,,,Agility,,,,,,,,Thunder,,,,,,,,,Light Screen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pikachu
+25,,"ThunderShock,Growl,Thunder Wave",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Raichu
+26,,Scratch,,,,,,,,,Sand-Attack,,,,,,,Slash,,,,,,,Poison Sting,,,,,,,Swift,,,,,,,Fury Swipes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sandshrew
+27,,"Scratch,Sand-Attack",,,,,,,,,Sand-Attack,,,,,,,Slash,,,,,,,,,,Poison Sting,,,,,,,,,Swift,,,,,,,,,,,Fury Swipes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sandslash
+28,,"Growl,Tackle",,,,,,,Scratch,,,,Double Kick,,,,,Poison Sting,,,,,,Tail Whip,,,,,,,Bite,,,,,,,,Fury Swipes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nidoran♀
+29,,"Growl,Tackle,Scratch",,,,,,,Scratch,,,,Double Kick,,,,,,,Poison Sting,,,,,,,,Tail Whip,,,,,,,,,Bite,,,,,,,,,,Fury Swipes,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nidorina
+30,Poison Sting,"Tackle,Scratch,Tail Whip,Body Slam",,,,,,,Scratch,,,,Double Kick,,,,,,,,,,,Body Slam,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nidoqueen
+31,,"Leer,Tackle",,,,,,,Horn Attack,,,,Double Kick,,,,,Poison Sting,,,,,,Focus Energy,,,,,,,Fury Attack,,,,,,,,Horn Drill,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nidoran♂
+32,,"Leer,Tackle,Horn Attack",,,,,,,Horn Attack,,,,Double Kick,,,,,,,Poison Sting,,,,,,,,Focus Energy,,,,,,,,,Fury Attack,,,,,,,,,,Horn Drill,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nidorino
+33,Poison Sting,"Tackle,Horn Attack,Poison Sting,Thrash",,,,,,,Horn Attack,,,,Double Kick,,,,,,,,,,,Thrash,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Nidoking
+34,,"Pound,Growl",,,,,,,,,,,,Sing,,,,,DoubleSlap,,,,,,Minimize,,,,,,,Metronome,,,,,,,,Defense Curl,,,,,,,,,Light Screen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Clefairy
+35,,"Sing,DoubleSlap,Minimize,Metronome",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Clefable
+36,,"Ember,Tail Whip",,,,,,,,,,,,,,,Quick Attack,,,,,Roar,,,,,,,Confuse Ray,,,,,,,Flamethrower,,,,,,,Fire Spin,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Vulpix
+37,,"Ember,Tail Whip,Quick Attack,Roar",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ninetales
+38,,Sing,,,,,,,,Pound,,,,,Disable,,,,,Defense Curl,,,,,DoubleSlap,,,,,Rest,,,,,Body Slam,,,,,Double-Edge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Jigglypuff
+39,,"Sing,Disable,Defense Curl,DoubleSlap",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Wigglytuff
+40,,Leech Life,,,,,,,,,Supersonic,,,,,Bite,,,,,,Confuse Ray,,,,,,,Wing Attack,,,,,,,,Haze,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zubat
+41,,"Leech Life,Screech,Bite",,,,,,,,,Supersonic,,,,,Bite,,,,,,Confuse Ray,,,,,,,,,,,Wing Attack,,,,,,,,,,,Haze,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Golbat
+42,,Absorb,,,,,,,,,,,,,,PoisonPowder,,Stun Spore,,Sleep Powder,,,,,Acid,,,,,,,,,Petal Dance,,,,,,,,,,,,,SolarBeam,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Oddish
+43,,"Absorb,PoisonPowder,Stun Spore",,,,,,,,,,,,,,PoisonPowder,,Stun Spore,,Sleep Powder,,,,,,,,,Acid,,,,,,,,,,Petal Dance,,,,,,,,,,,,,,SolarBeam,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Gloom
+44,,"Stun Spore,Sleep Powder,Acid,Petal Dance",,,,,,,,,,,,,,PoisonPowder,,Stun Spore,,Sleep Powder,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Vileplume
+45,,Scratch,,,,,,,,,,,,Stun Spore,,,,,,,Leech Life,,,,,,,Spore,,,,,,,Slash,,,,,,,Growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Paras
+46,,"Scratch,Stun Spore,Leech Life",,,,,,,,,,,,Stun Spore,,,,,,,Leech Life,,,,,,,,,,Spore,,,,,,,,,Slash,,,,,,,,,Growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Parasect
+47,,"Tackle,Disable",,,,,,,,,,Supersonic,,,,,,,,Confusion,,,PoisonPowder,,,,,Leech Life,,,Stun Spore,,,,,Psybeam,,,Sleep Powder,,,,,Psychic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Venonat
+48,"PoisonPowder,Leech Life","Tackle,Disable,Supersonic,Confusion",,,,,,,,,,,,,,,,,,,,,PoisonPowder,,,,,Leech Life,,,Stun Spore,,,,,,,,Psybeam,,,,,Sleep Powder,,,,,,,Psychic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Venomoth
+49,,Scratch,,,,,,,,,,,,,,Growl,,,,Dig,,,,,Sand-Attack,,,,,,,Slash,,,,,,,,,Earthquake,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Diglett
+50,,"Scratch,Growl,Dig",,,,,,,,,,,,,,Growl,,,,Dig,,,,,Sand-Attack,,,,,,,,,,,Slash,,,,,,,,,,,,Earthquake,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dugtrio
+51,,"Scratch,Growl",,,,,,,,,,,Bite,,,,,Pay Day,,,,,,,Screech,,,,,,,,,Fury Swipes,,,,,,,,,,,Slash,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Meowth
+52,,"Scratch,Growl,Bite,Screech",,,,,,,,,,,Bite,,,,,Pay Day,,,,,,,Screech,,,,,,,,,,,,,Fury Swipes,,,,,,,,,,,,,,Slash,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Persian
+53,,Scratch,,,,,,,,,,,,,,,,,,,,,,,,,,,Tail Whip,,,Disable,,,,,Confusion,,,,,,,Fury Swipes,,,,,,,,,Hydro Pump,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Psyduck
+54,,"Scratch,Tail Whip,Disable",,,,,,,,,,,,,,,,,,,,,,,,,,,Tail Whip,,,Disable,,,,,,,,Confusion,,,,,,,,,Fury Swipes,,,,,,,,,,,Hydro Pump,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Golduck
+55,,"Scratch,Leer",,,,,,,,Low Kick,,,,,,Karate Chop,,,,,,Fury Swipes,,,,,,Focus Energy,,,,,,Seismic Toss,,,,,,Thrash,,,,,,Screech,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Mankey
+56,Fury Swipes,"Scratch,Leer,Low Kick,Karate Chop",,,,,,,,Low Kick,,,,,,Karate Chop,,,,,,Fury Swipes,,,,,,Focus Energy,Rage,,,,,,,,,Seismic Toss,,,,,,,,Screech,Thrash,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Primeape
+57,,"Bite,Roar",,,,,,,,,,,,,,,,,Ember,,,,,Leer,,,,,,,Take Down,,,,,,,,,Agility,,,,,,,,,,,Flamethrower,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Growlithe
+58,,"Roar,Ember,Leer,Take Down",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Arcanine
+59,,Bubble,,,,,,,,,,,,,,,Hypnosis,,,Water Gun,,,,,,DoubleSlap,,,,,,Body Slam,,,,,,,Amnesia,,,,,,,Hydro Pump,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poliwag
+60,,"Bubble,Hypnosis,Water Gun",,,,,,,,,,,,,,,Hypnosis,,,Water Gun,,,,,,,DoubleSlap,,,,,,,Body Slam,,,,,,,,Amnesia,,,,,,,,Hydro Pump,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poliwhirl
+61,,"Hypnosis,Water Gun,DoubleSlap,Body Slam",,,,,,,,,,,,,,,Hypnosis,,,Water Gun,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poliwrath
+62,,Teleport,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Abra
+63,"Confusion,Disable","Teleport,Kinesis",,,,,,,,,,,,,,,Confusion,,,,Disable,,,,,,,Psybeam,,,,Recover,,,,,,,Psychic,,,,Reflect,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kadabra
+64,"Confusion,Disable","Teleport,Kinesis",,,,,,,,,,,,,,,Confusion,,,,Disable,,,,,,,Psybeam,,,,Recover,,,,,,,Psychic,,,,Reflect,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Alakazam
+65,,Karate Chop,,,,,,,,,,,,,,,,,,,Low Kick,,,,,Leer,,,,,,,Focus Energy,,,,,,,Seismic Toss,,,,,,,Submission,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Machop
+66,,"Karate Chop,Low Kick,Leer",,,,,,,,,,,,,,,,,,,Low Kick,,,,,Leer,,,,,,,,,,,Focus Energy,,,,,,,,Seismic Toss,,,,,,,,Submission,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Machoke
+67,,"Karate Chop,Low Kick,Leer",,,,,,,,,,,,,,,,,,,Low Kick,,,,,Leer,,,,,,,,,,,Focus Energy,,,,,,,,Seismic Toss,,,,,,,,Submission,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Machamp
+68,,"Vine Whip,Growth",,,,,,,,,,,,Wrap,,PoisonPowder,,,Sleep Powder,,,Stun Spore,,,,,Acid,,,,,,,Razor Leaf,,,,,,,,,Slam,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Bellsprout
+69,,"Vine Whip,Growth,Wrap",,,,,,,,,,,,Wrap,,PoisonPowder,,,Sleep Powder,,,,,Stun Spore,,,,,,Acid,,,,,,,,,Razor Leaf,,,,,,,,,,,Slam,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weepinbell
+70,,"Sleep Powder,Stun Spore,Acid,Razor Leaf",,,,,,,,,,,,Wrap,,PoisonPowder,,,Sleep Powder,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Victreebel
+71,,Acid,,,,,,Supersonic,,,,,,Wrap,,,,,Poison Sting,,,,Water Gun,,,,,Constrict,,,,,,Barrier,,,,,,,Screech,,,,,,,,Hydro Pump,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Tentacool
+72,,"Acid,Supersonic,Wrap",,,,,,Supersonic,,,,,,Wrap,,,,,Poison Sting,,,,Water Gun,,,,,Constrict,,,,,,,,Barrier,,,,,,,,Screech,,,,,,,Hydro Pump,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Tentacruel
+73,,Tackle,,,,,,,,,,Defense Curl,,,,,Rock Throw,,,,,Selfdestruct,,,,,Harden,,,,,Earthquake,,,,,Explosion,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Geodude
+74,,"Tackle,Defense Curl",,,,,,,,,,Defense Curl,,,,,Rock Throw,,,,,Selfdestruct,,,,,,,,Harden,,,,,,,Earthquake,,,,,,,Explosion,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Graveler
+75,,"Tackle,Defense Curl",,,,,,,,,,Defense Curl,,,,,Rock Throw,,,,,Selfdestruct,,,,,,,,Harden,,,,,,,Earthquake,,,,,,,Explosion,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Golem
+76,,Ember,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Tail Whip,,Stomp,,,Growl,,,,Fire Spin,,,,Take Down,,,,,Agility,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ponyta
+77,,"Ember,Tail Whip,Stomp,Growl",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Tail Whip,,Stomp,,,Growl,,,,Fire Spin,,,,,,,,Take Down,,,,,,,,Agility,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rapidash
+78,,Confusion,,,,,,,,,,,,,,,,,Disable,,,,Headbutt,,,,,Growl,,,,,,Water Gun,,,,,,,Amnesia,,,,,,,,Psychic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Slowpoke
+79,,"Confusion,Disable,Headbutt",,,,,,,,,,,,,,,,,Disable,,,,Headbutt,,,,,Growl,,,,,,Water Gun,,,,Withdraw,,,,,,,Amnesia,,,,,,,,,,,Psychic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Slowbro
+80,,Tackle,,,,,,,,,,,,,,,,,,,,SonicBoom,,,,ThunderShock,,,,Supersonic,,,,,,Thunder Wave,,,,,,Swift,,,,,,Screech,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Magnemite
+81,,"Tackle,SonicBoom,ThunderShock",,,,,,,,,,,,,,,,,,,,SonicBoom,,,,ThunderShock,,,,Supersonic,,,,,,,,,Thunder Wave,,,,,,,,Swift,,,,,,,,Screech,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Magneton
+82,,"Peck,Sand-Attack",,,,,,Leer,,,,,,,,Fury Attack,,,,,,,,Swords Dance,,,,,,,,Agility,,,,,,,,Slash,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Farfetch'd
+83,,Peck,,,,,,,,,,,,,,,,,,,Growl,,,,Fury Attack,,,,,,Drill Peck,,,,,,Rage,,,,Tri Attack,,,,Agility,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Doduo
+84,,"Peck,Growl,Fury Attack",,,,,,,,,,,,,,,,,,,Growl,,,,Fury Attack,,,,,,Drill Peck,,,,,,,,,Rage,,,,,,Tri Attack,,,,,,Agility,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dodrio
+85,,Headbutt,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Growl,,,,,Aurora Beam,,,,,Rest,,,,,Take Down,,,,,Ice Beam,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seel
+86,,"Headbutt,Growl,Aurora Beam",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Growl,,,,,Aurora Beam,,,,,,,,,Rest,,,,,,Take Down,,,,,,Ice Beam,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dewgong
+87,,"Pound,Disable",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poison Gas,,,Minimize,,,,Sludge,,,,,Harden,,,,,,Screech,,,,,,,Acid Armor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Grimer
+88,,"Pound,Disable,Poison Gas",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Poison Gas,,,Minimize,,,,Sludge,,,,,,,,Harden,,,,,,,,Screech,,,,,,,Acid Armor,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Muk
+89,,"Tackle,Withdraw",,,,,,,,,,,,,,,,,Supersonic,,,,,Clamp,,,,,,,Aurora Beam,,,,,,,,,Leer,,,,,,,,,,,Ice Beam,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Shellder
+90,,"Withdraw,Supersonic,Clamp,Aurora Beam",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Spike Cannon,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Cloyster
+91,,"Lick,Confuse Ray,Night Shade",,,,,,,,,,,,,,,,,,,,,,,,,,Hypnosis,,,,,,,,Dream Eater,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Gastly
+92,,"Lick,Confuse Ray,Night Shade",,,,,,,,,,,,,,,,,,,,,,,,,,,,Hypnosis,,,,,,,,,Dream Eater,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Haunter
+93,,"Lick,Confuse Ray,Night Shade",,,,,,,,,,,,,,,,,,,,,,,,,,,,Hypnosis,,,,,,,,,Dream Eater,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Gengar
+94,,"Tackle,Screech",,,,,,,,,,,,,,Bind,,,,Rock Throw,,,,,,Rage,,,,,,,,Slam,,,,,,,,,,Harden,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Onix
+95,,"Pound,Hypnosis",,,,,,,,,,,Disable,,,,,Confusion,,,,,,,Headbutt,,,,,Poison Gas,,,Psychic,,,,,Meditate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Drowzee
+96,,"Pound,Hypnosis,Disable,Confusion",,,,,,,,,,,Disable,,,,,Confusion,,,,,,,Headbutt,,,,,,,,,Poison Gas,,,,Psychic,,,,,,Meditate,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hypno
+97,,"Bubble,Leer",,,,,,,,,,,,,,,,,,,ViceGrip,,,,,Guillotine,,,,,Stomp,,,,,Crabhammer,,,,,Harden,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Krabby
+98,,"Bubble,Leer,ViceGrip",,,,,,,,,,,,,,,,,,,ViceGrip,,,,,Guillotine,,,,,,,,,Stomp,,,,,,,,Crabhammer,,,,,,,Harden,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kingler
+99,,"Tackle,Screech",,,,,,,,,,,,,,,,SonicBoom,,,,,Selfdestruct,,,,,,,Light Screen,,,,,,,Swift,,,,,,,Explosion,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Voltorb
+100,,"Tackle,Screech,SonicBoom",,,,,,,,,,,,,,,,SonicBoom,,,,,Selfdestruct,,,,,,,Light Screen,,,,,,,,,,,Swift,,,,,,,,,,Explosion,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Electrode
+101,,"Barrage,Hypnosis",,,,,,,,,,,,,,,,,,,,,,,,Reflect,,,Leech Seed,,,,Stun Spore,,,,,PoisonPowder,,,,,SolarBeam,,,,,,Sleep Powder,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Exeggcute
+102,,"Barrage,Hypnosis",,,,,,,,,,,,,,,,,,,,,,,,,,,Stomp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Exeggutor
+103,,Growl,,,,,,,,,Bone Club,,,Tail Whip,,,,,Headbutt,,,,,,,Leer,,,,,,Focus Energy,,,,,,,Thrash,,,,,Bonemerang,,,Rage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Cubone
+104,"Growl,Leer,Focus Energy","Bone Club,Tail Whip",,,,,,,,,Bone Club,,,Tail Whip,,,,,Headbutt,,,,,,,Leer,,,,,,,,Focus Energy,,,,,,,,Thrash,,,,,,,Bonemerang,,,,,,,Rage,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Marowak
+105,,"Double Kick,Meditate",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rolling Kick,,,,,Jump Kick,,,,,Focus Energy,,,,,Hi Jump Kick,,,,,Mega Kick,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hitmonlee
+106,,"Comet Punch,Agility",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Fire Punch,,,,,Ice Punch,,,,,ThunderPunch,,,,,Mega Punch,,,,,Counter,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Hitmonchan
+107,,"Wrap,Supersonic",,,,,,Stomp,,,,,,,,Disable,,,,,,,,Defense Curl,,,,,,,,Slam,,,,,,,,Screech,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lickitung
+108,,"Tackle,Smog",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sludge,,,,,SmokeScreen,,,Selfdestruct,,,,,Haze,,,Explosion,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Koffing
+109,,"Tackle,Smog,Sludge",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sludge,,,,,,,SmokeScreen,,,,Selfdestruct,,,,,,Haze,,,,Explosion,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Weezing
+110,,Horn Attack,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Stomp,,,,,Tail Whip,,,,,Fury Attack,,,,,Horn Drill,,,,,Leer,,,,,Take Down,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rhyhorn
+111,,"Horn Attack,Stomp,Tail Whip,Fury Attack",,,,,,,,,,,,,,,,,,,,,,,,,,,,,Stomp,,,,,Tail Whip,,,,,Fury Attack,,,,,,,,Horn Drill,,,,,,,Leer,,,,,,,,,Take Down,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Rhydon
+112,,"Pound,Tail Whip",,,,,,,,,,,DoubleSlap,,,,,,,,,,,,Sing,,,,,,Growl,,,,,,,,Minimize,,,,,,Defense Curl,,,,Light Screen,,,,,,Double-Edge,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Chansey
+113,,Constrict,,,,,,,,,,,,,,,,,,,,,,,Bind,,,Absorb,,Vine Whip,,,PoisonPowder,,,,Stun Spore,,,Sleep Powder,,,,,,Slam,,,Growth,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Tangela
+114,,"Comet Punch,Rage",,,,,,,,,,,,,,,,,,,,,,,,,Bite,,,,,Tail Whip,,,,,Mega Punch,,,,,Leer,,,,,Dizzy Punch,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kangaskhan
+115,,Bubble,,,,,,,,,,,,,,,,,,SmokeScreen,,,,,Leer,,,,,,Water Gun,,,,,,,Agility,,,,,,,,Hydro Pump,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Horsea
+116,,"Bubble,SmokeScreen",,,,,,,,,,,,,,,,,,SmokeScreen,,,,,Leer,,,,,,Water Gun,,,,,,,,,,,Agility,,,,,,,,,,,Hydro Pump,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seadra
+117,,"Peck,Tail Whip",,,,,,,,,,,,,,,,,,Supersonic,,,,,Horn Attack,,,,,,Fury Attack,,,,,,,Waterfall,,,,,,,,Horn Drill,,,,,,,,,Agility,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Goldeen
+118,,"Peck,Tail Whip,Supersonic",,,,,,,,,,,,,,,,,,Supersonic,,,,,Horn Attack,,,,,,Fury Attack,,,,,,,,,Waterfall,,,,,,,,,Horn Drill,,,,,,Agility,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Seaking
+119,,Tackle,,,,,,,,,,,,,,,,Water Gun,,,,,Harden,,,,,Recover,,,,,Swift,,,,,Minimize,,,,,Light Screen,,,,,Hydro Pump,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Staryu
+120,,"Tackle,Water Gun,Harden",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Starmie
+121,,"Confusion,Barrier",,,,,,,,,,,,,,Confusion,,,,,,,,Light Screen,,,,,,,,DoubleSlap,,,,,,,,Meditate,,,,,,,,Substitute,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Mr. Mime
+122,,Quick Attack,,,,,,,,,,,,,,,,Leer,,,Focus Energy,,,,Double Team,,,,,Slash,,,,,,Swords Dance,,,,,,,Agility,,,,,,,,Wing Attack,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Scyther
+123,,"Pound,Lovely Kiss",,,,,,,,,,,,,,,,,Lick,,,,,DoubleSlap,,,,,,,,Ice Punch,,,,,,,,Body Slam,,,,,,,,Thrash,,,,,,,,,,,Blizzard,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Jynx
+124,,"Quick Attack,Leer",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ThunderShock,,,Screech,,,,,ThunderPunch,,,,,,,Light Screen,,,,,Thunder,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Electabuzz
+125,,Ember,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Leer,,,Confuse Ray,,,,Fire Punch,,,,,SmokeScreen,,,,Smog,,,Flamethrower,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Magmar
+126,,ViceGrip,,,,,,,,,,,,,,,,,,,,Bind,,,,Seismic Toss,,,,,Guillotine,,,,,,Focus Energy,,,,,,,Harden,,,,,,Slash,,,,,Swords Dance,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Pinsir
+127,,Tackle,,,,,,,,,,,,,,,,,,,,Stomp,,,,,,,Tail Whip,,,,,,,Leer,,,,,,,,,Rage,,,,,,,Take Down,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Tauros
+128,,Splash,,,,,,,,,,,,,,Tackle,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Magikarp
+129,"Bite,Dragon Rage,Leer,Hydro Pump",Tackle,,,,,,,,,,,,,,,,,,,Bite,,,,,Dragon Rage,,,,,,,Leer,,,,,,,,,Hydro Pump,,,,,,,,,,,Hyper Beam,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Gyarados
+130,,"Water Gun,Growl",,,,,,,,,,,,,,,Sing,,,,Mist,,,,,Body Slam,,,,,,Confuse Ray,,,,,,,Ice Beam,,,,,,,,Hydro Pump,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Lapras
+131,,Transform,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Ditto
+132,,"Tackle,Tail Whip",,,,,,,Sand-Attack,,,,,,,,Growl,,,,,,,Quick Attack,,,,,,,Bite,,,,,,Focus Energy,,,,,,Take Down,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Eevee
+133,Mist,"Tackle,Tail Whip,Quick Attack,Water Gun",,,,,,,Sand-Attack,,,,,,,,Water Gun,,,,,,,Quick Attack,,,,,,,Bite,,,,,,Aurora Beam,,,,,,Haze,,,,,Acid Armor,,,,,Hydro Pump,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Vaporeon
+134,,"Tackle,Tail Whip,Quick Attack,ThunderShock",,,,,,,Sand-Attack,,,,,,,,ThunderShock,,,,,,,Quick Attack,,,,,,,Double Kick,,,,,,Pin Missile,,,,,,Thunder Wave,,,,,Agility,,,,,Thunder,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Jolteon
+135,Rage,"Tackle,Tail Whip,Quick Attack,Ember",,,,,,,Sand-Attack,,,,,,,,Ember,,,,,,,Quick Attack,,,,,,,Bite,,,,,,Fire Spin,,,,,,Smog,,,,,Leer,,,,,Flamethrower,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Flareon
+136,,"Tackle,Sharpen,Conversion",,,,,,,,,,,,,,,,,,,,,,Psybeam,,,,,Recover,,,,,,,Agility,,,,,,,Tri Attack,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Porygon
+137,,"Water Gun,Withdraw",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Horn Attack,,,,,Leer,,,,,,,Spike Cannon,,,,,,,Hydro Pump,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Omanyte
+138,,"Water Gun,Withdraw,Horn Attack",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Horn Attack,,,,,Leer,,,,,Spike Cannon,,,,,Hydro Pump,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Omastar
+139,,"Scratch,Harden",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Absorb,,,,,Slash,,,,,Leer,,,,,Hydro Pump,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kabuto
+140,,"Scratch,Harden,Absorb",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Absorb,,,,,Slash,,,,,,,Leer,,,,,,,Hydro Pump,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Kabutops
+141,,"Wing Attack,Agility",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Supersonic,,,,,Bite,,,,,,,Take Down,,,,,,,,,Hyper Beam,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Aerodactyl
+142,,"Headbutt,Amnesia,Rest",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Body Slam,,,,,,Harden,,,,,,,Double-Edge,,,,,,,,Hyper Beam,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Snorlax
+143,,"Peck,Ice Beam",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Blizzard,,,,Agility,,,,,Mist,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Articuno
+144,,"ThunderShock,Drill Peck",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Thunder,,,,Agility,,,,,Light Screen,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Zapdos
+145,,"Peck,Fire Spin",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Leer,,,,Agility,,,,,Sky Attack,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Moltres
+146,,"Wrap,Leer",,,,,,,,,Thunder Wave,,,,,,,,,,Agility,,,,,,,,,,Slam,,,,,,,,,,Dragon Rage,,,,,,,,,,Hyper Beam,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dratini
+147,,"Wrap,Leer,Thunder Wave",,,,,,,,,Thunder Wave,,,,,,,,,,Agility,,,,,,,,,,,,,,,Slam,,,,,,,,,,Dragon Rage,,,,,,,,,,Hyper Beam,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dragonair
+148,,"Wrap,Leer,Thunder Wave,Agility",,,,,,,,,Thunder Wave,,,,,,,,,,Agility,,,,,,,,,,,,,,,Slam,,,,,,,,,,Dragon Rage,,,,,,,,,,,,,,,Hyper Beam,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Dragonite
+149,,"Confusion,Disable,Swift,Psychic",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Barrier,,,Psychic,,,,Recover,,,,,Mist,,,,,,Amnesia,,,,,,,,,,,,,,,,,,,Mewtwo
+150,,Pound,,,,,,,,,Transform,,,,,,,,,,Mega Punch,,,,,,,,,,Metronome,,,,,,,,,,Psychic,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Mew

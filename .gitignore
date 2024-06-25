@@ -1,0 +1,8 @@
+desktop.ini
+venv/
+.idea
+.obsidian
+.venv
+scratch.*
+.vscode
+__pycache__
