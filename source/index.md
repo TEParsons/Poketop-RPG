@@ -20,7 +20,16 @@ Each turn, you determine turn order by rolling d20's and adding Speed modifiers.
 If you used an item, it will have its effect now, before attacks.
 
 #### Attacks
-In the order chosen earlier, carry out the attacks. If the attack text has "+n to hit", then you roll a d20 and add the specified modifier to it. If the attack is the same type as your Pokémon's primary type, roll two d20's and choose the highest (this is called STAB - Same Type Attack Bonus). Anything over 10 hits. On a hit, deal the specified damage from the attack's text to the enemy. If the enemy is of a type weak to the attack's type, double damage. If it is double weak (e.g. grass/psychic to bug), quadruple damage. Do the inverse for resistance (halve for resistant, quarter for double resistant, always rounded down with a minimum of 1). If it is immune to this damage type, reduce damage to 0. If you rolled a natural 20 to hit, then it is a critical hit and you can double the damage. This stacks, so if you critical hit on a double super effective attack you can deal 8x damage!
+In the order chosen earlier, carry out the attacks. If the attack text has "+n to hit", then you roll a d20 and add the specified modifier to it. If the attack is the same type as your Pokémon's primary type, roll two d20's and choose the highest (this is called STAB - Same Type Attack Bonus). Anything over 10 hits. On a hit, deal damage and any additional effect from the move's description.
+
+##### Calculating damage
+On a hit, attacks will say which die to roll for damage. When you deal damage using that attack, you work out the base damage by:
+```
+Dice roll + Attacker's Attack + Defenders Defence
+```
+If the attack is a Special attack, then you would use your Sp. Attack and their Sp. Defence instead of Attack and Defence.
+
+If the enemy is of a type weak to the attack's type, double damage. If it is double weak (e.g. grass/psychic to bug), quadruple damage. Do the inverse for resistance (halve for resistant, quarter for double resistant, always rounded down with a minimum of 1). If it is immune to this damage type, reduce damage to 0. If you rolled a natural 20 to hit, then it is a critical hit and you can double the damage. This stacks, so if you critical hit on a double super effective attack you can deal 8x damage!
 
 #### Fainting
 When your or an opponent's Pokémon HP reaches 0, the Pokémon faints! It can no longer battle, and the opposing Pokémon gain experience.
