@@ -35,15 +35,34 @@ for _, row in moves.iterrows():
     # replace spelling of defense
     attrs['desc'] = attrs['desc'].replace("Defense", "Defence")
     # make stat modifier attacks more explicit
-    stat_names_re = r"Special Defence|Special Attack|Defence|Attack|Evasiveness"
-    attrs['desc'] = re.sub(
-        pattern=r"(Lowers|Raises) (user|opponent)'s ({sn})( and (?:{sn}))?".format(sn=stat_names_re),
-        repl=r"\1 \2's \3\4 by 1",
-        string=attrs['desc']
+    def add_amount(match):
+        sharply, action, target, stat, extra = match.groups()
+        # work out amount
+        amount = 1
+        if sharply:
+            amount = 2
+        # reassemble string
+        return f"{action} {target}'s {stat}{extra or ''} by {amount}."
+    mod_re = (
+        # optional intensifier
+        r"([Ss]harply )?"
+        # action (raises, lowers, etc.)
+        r"([Ll]owers?|[Ll]owers? an|[Ll]owers? the|[Rr]aises?|[Rr]aises? an|[Rr]aises? the) "
+        # target (user vs opponent)
+        r"(user|opponent)'s "
+        # stat
+        r"(Special Defence|Special Attack|Defence|Attack|Evasiveness|Speed)\.?"
+        # extra stats
+        r"( and (?:Special Defence|Special Attack|Defence|Attack|Evasiveness|Speed))?\.?"
+        # gunk at the end
+        r"(?: by \w* stages?)?\.?"
+        r""
     )
+    stat_names_re = r"Special Defence|Special Attack|Defence|Attack|Evasiveness"
+    action_names_re = r"[Ll]owers?|[Ll]owers? an|[Ll]owers? the|[Rr]aises?|[Rr]aises? an|[Rr]aises? the"
     attrs['desc'] = re.sub(
-        pattern=r"Sharply (lowers|raises) (user|opponent)'s ({sn})( and (?:{sn}))?".format(sn=stat_names_re),
-        repl=r"\1 \2's \3\4 by 2",
+        pattern=mod_re,
+        repl=add_amount,
         string=attrs['desc']
     )
     # rephrase critical hit ratio

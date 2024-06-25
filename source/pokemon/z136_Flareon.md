@@ -13,7 +13,7 @@
 ## Moves
 #### Level 0
 
-***Rage** Normal-type Physical Move*: +5 to hit, d4+Atk damage. Raises user's Attack by 1 when hit.
+***Rage** Normal-type Physical Move*: +5 to hit, d4+Atk damage. Raises user's Attack by 1. when hit.
 #### Level 1
 
 ***Tackle** Normal-type Physical Move*: +5 to hit, d4+Atk damage. 

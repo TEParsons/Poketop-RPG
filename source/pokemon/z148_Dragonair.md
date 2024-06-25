@@ -23,7 +23,7 @@
 ***Thunder Wave** Electric-type Status Move*: +4 to hit, paralyzes opponent.
 #### Level 20
 
-***Agility** Psychic-type Status Move*: Sharply raises user's Speed.
+***Agility** Psychic-type Status Move*: raises user's Speed by 2.
 #### Level 35
 
 ***Slam** Normal-type Physical Move*: +2 to hit, d8+Atk damage. 

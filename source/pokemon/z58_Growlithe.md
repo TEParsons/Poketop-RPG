@@ -27,7 +27,7 @@
 ***Take Down** Normal-type Physical Move*: +3 to hit, d8+Atk damage. User takes recoil damage equal to their Attack modifier.
 #### Level 39
 
-***Agility** Psychic-type Status Move*: Sharply raises user's Speed.
+***Agility** Psychic-type Status Move*: raises user's Speed by 2.
 #### Level 50
 
 ***Flamethrower** Fire-type Special Move*: +5 to hit, d8+SpAtk damage. On a hit above 18 will burn opponent.

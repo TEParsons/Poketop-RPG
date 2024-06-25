@@ -13,7 +13,7 @@
 ## Moves
 #### Level 1
 
-***Acid** Poison-type Special Move*: +5 to hit, d4+SpAtk damage. On a hit above 18 will lower opponent's Special Defence.
+***Acid** Poison-type Special Move*: +5 to hit, d4+SpAtk damage. On a hit above 18 will lower opponent's Special Defence by 1.
 #### Level 7
 
 ***Supersonic** Normal-type Status Move*: 0 to hit, confuses opponent.
@@ -28,7 +28,7 @@
 ***Water Gun** Water-type Special Move*: +5 to hit, d4+SpAtk damage. 
 #### Level 27
 
-***Constrict** Normal-type Physical Move*: +5 to hit, d4+Atk damage. On a hit above 18 will lower opponent's Speed by one stage.
+***Constrict** Normal-type Physical Move*: +5 to hit, d4+Atk damage. On a hit above 18 will lower opponent's Speed by 1.
 #### Level 33
 
 ***Barrier** Psychic-type Status Move*: raises user's Defence by 2.

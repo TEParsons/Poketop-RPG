@@ -13,7 +13,7 @@
 ## Moves
 #### Level 1
 
-***Bubble** Water-type Special Move*: +5 to hit, d4+SpAtk damage. On a hit above 18 will lower opponent's Speed.
+***Bubble** Water-type Special Move*: +5 to hit, d4+SpAtk damage. On a hit above 18 will lower opponent's Speed by 1.
 
 ***Hypnosis** Psychic-type Status Move*: +1 to hit, puts opponent to sleep.
 

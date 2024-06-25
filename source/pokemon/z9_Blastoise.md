@@ -17,12 +17,12 @@
 
 ***Tail Whip** Normal-type Status Move*: +5 to hit, lowers opponent's Defence by 1.
 
-***Bubble** Water-type Special Move*: +5 to hit, d4+SpAtk damage. On a hit above 18 will lower opponent's Speed.
+***Bubble** Water-type Special Move*: +5 to hit, d4+SpAtk damage. On a hit above 18 will lower opponent's Speed by 1.
 
 ***Water Gun** Water-type Special Move*: +5 to hit, d4+SpAtk damage. 
 #### Level 8
 
-***Bubble** Water-type Special Move*: +5 to hit, d4+SpAtk damage. On a hit above 18 will lower opponent's Speed.
+***Bubble** Water-type Special Move*: +5 to hit, d4+SpAtk damage. On a hit above 18 will lower opponent's Speed by 1.
 #### Level 15
 
 ***Water Gun** Water-type Special Move*: +5 to hit, d4+SpAtk damage. 

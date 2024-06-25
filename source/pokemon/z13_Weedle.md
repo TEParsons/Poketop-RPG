@@ -15,5 +15,5 @@
 
 ***Poison Sting** Poison-type Physical Move*: +5 to hit, d4+Atk damage. On a hit above 18 will poison the opponent.
 
-***String Shot** Bug-type Status Move*: +4 to hit, sharply lowers opponent's Speed.
+***String Shot** Bug-type Status Move*: +4 to hit, lowers opponent's Speed by 2.
 

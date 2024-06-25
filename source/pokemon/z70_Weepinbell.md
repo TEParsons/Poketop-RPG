@@ -32,7 +32,7 @@
 ***Stun Spore** Grass-type Status Move*: +2 to hit, paralyzes opponent.
 #### Level 29
 
-***Acid** Poison-type Special Move*: +5 to hit, d4+SpAtk damage. On a hit above 18 will lower opponent's Special Defence.
+***Acid** Poison-type Special Move*: +5 to hit, d4+SpAtk damage. On a hit above 18 will lower opponent's Special Defence by 1.
 #### Level 38
 
 ***Razor Leaf** Grass-type Physical Move*: +4 to hit, d6+Atk damage. Critical hits on a 19.

@@ -21,7 +21,7 @@
 ***Blizzard** Ice-type Special Move*: +2 to hit, d10+SpAtk damage. On a hit above 18 will freeze opponent.
 #### Level 55
 
-***Agility** Psychic-type Status Move*: Sharply raises user's Speed.
+***Agility** Psychic-type Status Move*: raises user's Speed by 2.
 #### Level 60
 
 ***Mist** Ice-type Status Move*: User's stats cannot be changed for 1d6 turns.

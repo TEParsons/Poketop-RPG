@@ -21,7 +21,7 @@
 ***Leer** Normal-type Status Move*: +5 to hit, lowers opponent's Defence by 1.
 #### Level 55
 
-***Agility** Psychic-type Status Move*: Sharply raises user's Speed.
+***Agility** Psychic-type Status Move*: raises user's Speed by 2.
 #### Level 60
 
 ***Sky Attack** Flying-type Physical Move*: +4 to hit, d12+Atk damage. Charges on first turn, attacks on second. On a hit above 18 will cause flinching. Critical hits on a 19.

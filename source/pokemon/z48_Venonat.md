@@ -39,5 +39,5 @@
 ***Sleep Powder** Grass-type Status Move*: +2 to hit, puts opponent to sleep.
 #### Level 43
 
-***Psychic** Psychic-type Special Move*: +5 to hit, d8+SpAtk damage. On a hit above 18 will lower opponent's Special Defence.
+***Psychic** Psychic-type Special Move*: +5 to hit, d8+SpAtk damage. On a hit above 18 will lower opponent's Special Defence by 1.
 

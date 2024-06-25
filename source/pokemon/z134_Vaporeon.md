@@ -37,7 +37,7 @@
 ***Bite** Dark-type Physical Move*: +5 to hit, d6+Atk damage. On a hit above 18 will cause flinching.
 #### Level 36
 
-***Aurora Beam** Ice-type Special Move*: +5 to hit, d6+SpAtk damage. On a hit above 18 will lower opponent's Attack.
+***Aurora Beam** Ice-type Special Move*: +5 to hit, d6+SpAtk damage. On a hit above 18 will lower opponent's Attack by 1.
 #### Level 42
 
 ***Haze** Ice-type Status Move*: Resets all stat changes.

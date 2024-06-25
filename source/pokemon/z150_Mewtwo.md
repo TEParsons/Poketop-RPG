@@ -19,13 +19,13 @@
 
 ***Swift** Normal-type Special Move*: d6+SpAtk damage. Always hits.
 
-***Psychic** Psychic-type Special Move*: +5 to hit, d8+SpAtk damage. On a hit above 18 will lower opponent's Special Defence.
+***Psychic** Psychic-type Special Move*: +5 to hit, d8+SpAtk damage. On a hit above 18 will lower opponent's Special Defence by 1.
 #### Level 63
 
 ***Barrier** Psychic-type Status Move*: raises user's Defence by 2.
 #### Level 66
 
-***Psychic** Psychic-type Special Move*: +5 to hit, d8+SpAtk damage. On a hit above 18 will lower opponent's Special Defence.
+***Psychic** Psychic-type Special Move*: +5 to hit, d8+SpAtk damage. On a hit above 18 will lower opponent's Special Defence by 1.
 #### Level 70
 
 ***Recover** Normal-type Status Move*: User recovers half its max HP.

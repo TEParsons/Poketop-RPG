@@ -15,5 +15,5 @@
 
 ***Tackle** Normal-type Physical Move*: +5 to hit, d4+Atk damage. 
 
-***String Shot** Bug-type Status Move*: +4 to hit, sharply lowers opponent's Speed.
+***String Shot** Bug-type Status Move*: +4 to hit, lowers opponent's Speed by 2.
 

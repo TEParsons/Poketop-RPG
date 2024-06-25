@@ -24,7 +24,7 @@
 ***Rock Throw** Rock-type Physical Move*: +4 to hit, d4+Atk damage. 
 #### Level 25
 
-***Rage** Normal-type Physical Move*: +5 to hit, d4+Atk damage. Raises user's Attack by 1 when hit.
+***Rage** Normal-type Physical Move*: +5 to hit, d4+Atk damage. Raises user's Attack by 1. when hit.
 #### Level 33
 
 ***Slam** Normal-type Physical Move*: +2 to hit, d8+Atk damage. 

@@ -37,5 +37,5 @@
 ***Take Down** Normal-type Physical Move*: +3 to hit, d8+Atk damage. User takes recoil damage equal to their Attack modifier.
 #### Level 55
 
-***Agility** Psychic-type Status Move*: Sharply raises user's Speed.
+***Agility** Psychic-type Status Move*: raises user's Speed by 2.
 

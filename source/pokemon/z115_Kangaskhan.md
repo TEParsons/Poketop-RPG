@@ -15,7 +15,7 @@
 
 ***Comet Punch** Normal-type Physical Move*: +3 to hit, d4+Atk damage. Hits 2-5 times in one turn.
 
-***Rage** Normal-type Physical Move*: +5 to hit, d4+Atk damage. Raises user's Attack by 1 when hit.
+***Rage** Normal-type Physical Move*: +5 to hit, d4+Atk damage. Raises user's Attack by 1. when hit.
 #### Level 26
 
 ***Bite** Dark-type Physical Move*: +5 to hit, d6+Atk damage. On a hit above 18 will cause flinching.

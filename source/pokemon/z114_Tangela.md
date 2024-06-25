@@ -13,7 +13,7 @@
 ## Moves
 #### Level 1
 
-***Constrict** Normal-type Physical Move*: +5 to hit, d4+Atk damage. On a hit above 18 will lower opponent's Speed by one stage.
+***Constrict** Normal-type Physical Move*: +5 to hit, d4+Atk damage. On a hit above 18 will lower opponent's Speed by 1.
 #### Level 24
 
 ***Bind** Normal-type Physical Move*: +3 to hit, d4+Atk damage. Traps opponent, damaging them for 4-5 turns.

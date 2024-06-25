@@ -29,11 +29,11 @@
 ***Drill Peck** Flying-type Physical Move*: +5 to hit, d8+Atk damage. 
 #### Level 39
 
-***Rage** Normal-type Physical Move*: +5 to hit, d4+Atk damage. Raises user's Attack by 1 when hit.
+***Rage** Normal-type Physical Move*: +5 to hit, d4+Atk damage. Raises user's Attack by 1. when hit.
 #### Level 45
 
 ***Tri Attack** Normal-type Special Move*: +5 to hit, d8+SpAtk damage. On a hit above 18 will paralyze, burn or freeze opponent.
 #### Level 51
 
-***Agility** Psychic-type Status Move*: Sharply raises user's Speed.
+***Agility** Psychic-type Status Move*: raises user's Speed by 2.
 

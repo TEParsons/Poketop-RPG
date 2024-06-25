@@ -30,5 +30,5 @@
 ***Screech** Normal-type Status Move*: +3 to hit, lowers opponent's Defence by 2.
 #### Level 38
 
-***Acid** Poison-type Special Move*: +5 to hit, d4+SpAtk damage. On a hit above 18 will lower opponent's Special Defence.
+***Acid** Poison-type Special Move*: +5 to hit, d4+SpAtk damage. On a hit above 18 will lower opponent's Special Defence by 1.
 

@@ -35,7 +35,7 @@
 ***Recover** Normal-type Status Move*: User recovers half its max HP.
 #### Level 38
 
-***Psychic** Psychic-type Special Move*: +5 to hit, d8+SpAtk damage. On a hit above 18 will lower opponent's Special Defence.
+***Psychic** Psychic-type Special Move*: +5 to hit, d8+SpAtk damage. On a hit above 18 will lower opponent's Special Defence by 1.
 #### Level 42
 
 ***Reflect** Psychic-type Status Move*: Halves damage from Physical attacks for 5 turns.

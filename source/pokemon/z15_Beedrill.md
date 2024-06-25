@@ -25,11 +25,11 @@
 ***Twineedle** Bug-type Physical Move*: +5 to hit, d4+Atk damage. Hits twice in one turn. On a hit above 18 will poison opponent.
 #### Level 25
 
-***Rage** Normal-type Physical Move*: +5 to hit, d4+Atk damage. Raises user's Attack by 1 when hit.
+***Rage** Normal-type Physical Move*: +5 to hit, d4+Atk damage. Raises user's Attack by 1. when hit.
 #### Level 30
 
 ***Pin Missile** Bug-type Physical Move*: +4 to hit, d4+Atk damage. Hits 2-5 times in one turn.
 #### Level 35
 
-***Agility** Psychic-type Status Move*: Sharply raises user's Speed.
+***Agility** Psychic-type Status Move*: raises user's Speed by 2.
 

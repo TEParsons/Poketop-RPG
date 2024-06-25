@@ -37,7 +37,7 @@
 ***Focus Energy** Normal-type Status Move*: Subsequent attacks critical hit on a 19.
 #### Level 28
 
-***Rage** Normal-type Physical Move*: +5 to hit, d4+Atk damage. Raises user's Attack by 1 when hit.
+***Rage** Normal-type Physical Move*: +5 to hit, d4+Atk damage. Raises user's Attack by 1. when hit.
 #### Level 37
 
 ***Seismic Toss** Fighting-type Physical Move*: +5 to hit, inflicts damage equal to user's level.

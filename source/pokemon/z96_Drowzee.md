@@ -30,7 +30,7 @@
 ***Poison Gas** Poison-type Status Move*: +4 to hit, poisons opponent.
 #### Level 32
 
-***Psychic** Psychic-type Special Move*: +5 to hit, d8+SpAtk damage. On a hit above 18 will lower opponent's Special Defence.
+***Psychic** Psychic-type Special Move*: +5 to hit, d8+SpAtk damage. On a hit above 18 will lower opponent's Special Defence by 1.
 #### Level 37
 
 ***Meditate** Psychic-type Status Move*: Raises user's Attack by 1.

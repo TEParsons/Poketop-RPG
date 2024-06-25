@@ -28,7 +28,7 @@
 ***Leer** Normal-type Status Move*: +5 to hit, lowers opponent's Defence by 1.
 #### Level 24
 
-***Rage** Normal-type Physical Move*: +5 to hit, d4+Atk damage. Raises user's Attack by 1 when hit.
+***Rage** Normal-type Physical Move*: +5 to hit, d4+Atk damage. Raises user's Attack by 1. when hit.
 #### Level 36
 
 ***Slash** Normal-type Physical Move*: +5 to hit, d6+Atk damage. Critical hits on a 19.

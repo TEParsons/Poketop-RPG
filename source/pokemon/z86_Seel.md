@@ -19,7 +19,7 @@
 ***Growl** Normal-type Status Move*: +5 to hit, lowers opponent's Attack by 1.
 #### Level 35
 
-***Aurora Beam** Ice-type Special Move*: +5 to hit, d6+SpAtk damage. On a hit above 18 will lower opponent's Attack.
+***Aurora Beam** Ice-type Special Move*: +5 to hit, d6+SpAtk damage. On a hit above 18 will lower opponent's Attack by 1.
 #### Level 40
 
 ***Rest** Psychic-type Status Move*: User sleeps for 2 turns, but user is fully healed.

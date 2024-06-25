@@ -32,5 +32,5 @@
 ***Drill Peck** Flying-type Physical Move*: +5 to hit, d8+Atk damage. 
 #### Level 43
 
-***Agility** Psychic-type Status Move*: Sharply raises user's Speed.
+***Agility** Psychic-type Status Move*: raises user's Speed by 2.
 

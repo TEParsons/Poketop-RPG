@@ -26,7 +26,7 @@
 ***Recover** Normal-type Status Move*: User recovers half its max HP.
 #### Level 35
 
-***Agility** Psychic-type Status Move*: Sharply raises user's Speed.
+***Agility** Psychic-type Status Move*: raises user's Speed by 2.
 #### Level 42
 
 ***Tri Attack** Normal-type Special Move*: +5 to hit, d8+SpAtk damage. On a hit above 18 will paralyze, burn or freeze opponent.

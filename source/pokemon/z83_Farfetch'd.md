@@ -27,7 +27,7 @@
 ***Swords Dance** Normal-type Status Move*: raises user's Attack by 2.
 #### Level 31
 
-***Agility** Psychic-type Status Move*: Sharply raises user's Speed.
+***Agility** Psychic-type Status Move*: raises user's Speed by 2.
 #### Level 39
 
 ***Slash** Normal-type Physical Move*: +5 to hit, d6+Atk damage. Critical hits on a 19.

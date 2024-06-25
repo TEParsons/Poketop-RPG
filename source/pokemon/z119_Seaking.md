@@ -35,5 +35,5 @@
 ***Horn Drill** Normal-type Physical Move*: -2 to hit, one-Hit-KO, if it hits.
 #### Level 54
 
-***Agility** Psychic-type Status Move*: Sharply raises user's Speed.
+***Agility** Psychic-type Status Move*: raises user's Speed by 2.
 

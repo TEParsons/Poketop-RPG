@@ -25,5 +25,5 @@
 ***Metronome** Normal-type Status Move*: User performs almost any move in the game at random.
 #### Level 40
 
-***Psychic** Psychic-type Special Move*: +5 to hit, d8+SpAtk damage. On a hit above 18 will lower opponent's Special Defence.
+***Psychic** Psychic-type Special Move*: +5 to hit, d8+SpAtk damage. On a hit above 18 will lower opponent's Special Defence by 1.
 

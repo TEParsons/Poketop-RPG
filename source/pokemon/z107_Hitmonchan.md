@@ -15,7 +15,7 @@
 
 ***Comet Punch** Normal-type Physical Move*: +3 to hit, d4+Atk damage. Hits 2-5 times in one turn.
 
-***Agility** Psychic-type Status Move*: Sharply raises user's Speed.
+***Agility** Psychic-type Status Move*: raises user's Speed by 2.
 #### Level 33
 
 ***Fire Punch** Fire-type Physical Move*: +5 to hit, d8+Atk damage. On a hit above 18 will burn opponent.

@@ -13,7 +13,7 @@
 ## Moves
 #### Level 1
 
-***Bubble** Water-type Special Move*: +5 to hit, d4+SpAtk damage. On a hit above 18 will lower opponent's Speed.
+***Bubble** Water-type Special Move*: +5 to hit, d4+SpAtk damage. On a hit above 18 will lower opponent's Speed by 1.
 
 ***Leer** Normal-type Status Move*: +5 to hit, lowers opponent's Defence by 1.
 

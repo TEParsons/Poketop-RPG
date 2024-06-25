@@ -15,7 +15,7 @@
 
 ***Wing Attack** Flying-type Physical Move*: +5 to hit, d6+Atk damage. 
 
-***Agility** Psychic-type Status Move*: Sharply raises user's Speed.
+***Agility** Psychic-type Status Move*: raises user's Speed by 2.
 #### Level 33
 
 ***Supersonic** Normal-type Status Move*: 0 to hit, confuses opponent.

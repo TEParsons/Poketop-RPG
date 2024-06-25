@@ -24,7 +24,7 @@
 
 ## Poison
 
-***Acid** Poison-type Special Move*: +5 to hit, d4+SpAtk damage. On a hit above 18 will lower opponent's Special Defence.
+***Acid** Poison-type Special Move*: +5 to hit, d4+SpAtk damage. On a hit above 18 will lower opponent's Special Defence by 1.
 
 ***Acid Armor** Poison-type Status Move*: raises user's Defence by 2.
 
@@ -42,7 +42,7 @@
 
 ## Psychic
 
-***Agility** Psychic-type Status Move*: Sharply raises user's Speed.
+***Agility** Psychic-type Status Move*: raises user's Speed by 2.
 
 ***Amnesia** Psychic-type Status Move*: raises user's Special Defence by 2.
 
@@ -62,7 +62,7 @@
 
 ***Psybeam** Psychic-type Special Move*: +5 to hit, d6+SpAtk damage. On a hit above 18 will confuse opponent.
 
-***Psychic** Psychic-type Special Move*: +5 to hit, d8+SpAtk damage. On a hit above 18 will lower opponent's Special Defence.
+***Psychic** Psychic-type Special Move*: +5 to hit, d8+SpAtk damage. On a hit above 18 will lower opponent's Special Defence by 1.
 
 ***Psywave** Psychic-type Special Move*: +5 to hit, inflicts damage 50-150% of user's level.
 
@@ -74,7 +74,7 @@
 
 ## Ice
 
-***Aurora Beam** Ice-type Special Move*: +5 to hit, d6+SpAtk damage. On a hit above 18 will lower opponent's Attack.
+***Aurora Beam** Ice-type Special Move*: +5 to hit, d6+SpAtk damage. On a hit above 18 will lower opponent's Attack by 1.
 
 ***Blizzard** Ice-type Special Move*: +2 to hit, d10+SpAtk damage. On a hit above 18 will freeze opponent.
 
@@ -98,7 +98,7 @@
 
 ***Comet Punch** Normal-type Physical Move*: +3 to hit, d4+Atk damage. Hits 2-5 times in one turn.
 
-***Constrict** Normal-type Physical Move*: +5 to hit, d4+Atk damage. On a hit above 18 will lower opponent's Speed by one stage.
+***Constrict** Normal-type Physical Move*: +5 to hit, d4+Atk damage. On a hit above 18 will lower opponent's Speed by 1.
 
 ***Conversion** Normal-type Status Move*: Changes user's type to that of its first move.
 
@@ -168,7 +168,7 @@
 
 ***Quick Attack** Normal-type Physical Move*: +5 to hit, d4+Atk damage. User attacks first.
 
-***Rage** Normal-type Physical Move*: +5 to hit, d4+Atk damage. Raises user's Attack by 1 when hit.
+***Rage** Normal-type Physical Move*: +5 to hit, d4+Atk damage. Raises user's Attack by 1. when hit.
 
 ***Razor Wind** Normal-type Special Move*: +5 to hit, d8+SpAtk damage. Charges on first turn, attacks on second. Critical hits on a 19.
 
@@ -256,9 +256,9 @@
 
 ## Water
 
-***Bubble** Water-type Special Move*: +5 to hit, d4+SpAtk damage. On a hit above 18 will lower opponent's Speed.
+***Bubble** Water-type Special Move*: +5 to hit, d4+SpAtk damage. On a hit above 18 will lower opponent's Speed by 1.
 
-***Bubble Beam** Water-type Special Move*: +5 to hit, d6+SpAtk damage. On a hit above 18 will lower opponent's Speed.
+***Bubble Beam** Water-type Special Move*: +5 to hit, d6+SpAtk damage. On a hit above 18 will lower opponent's Speed by 1.
 
 ***Clamp** Water-type Physical Move*: +3 to hit, d4+Atk damage. Traps opponent, damaging them for 4-5 turns.
 
@@ -340,7 +340,7 @@
 
 ***Pin Missile** Bug-type Physical Move*: +4 to hit, d4+Atk damage. Hits 2-5 times in one turn.
 
-***String Shot** Bug-type Status Move*: +4 to hit, sharply lowers opponent's Speed.
+***String Shot** Bug-type Status Move*: +4 to hit, lowers opponent's Speed by 2.
 
 ***Twineedle** Bug-type Physical Move*: +5 to hit, d4+Atk damage. Hits twice in one turn. On a hit above 18 will poison opponent.
 
