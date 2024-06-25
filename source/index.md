@@ -44,7 +44,7 @@ When an enemy Pokémon faints, all Pokémon who fought that opponent gain experi
 ```
 enemy pokémon's level * 2 - your pokémon's level
 ```
-...with a minimum exp of 1 (so you cannot gain no or negative exp).
+...with a minimum exp of 1 (so you cannot gain 0 or negative exp).
 
 #### Levelling up
 When your Pokémon's experience points reach the same number as their level, that Pokémon levels up, resetting their experience to 0. Experience is applied one point at a time, so e.g. if a lvl2 Pokémon defeats a lvl4 Pokémon (for 4xp), it would gain 2 exp, level up to lvl3 (resetting exp to 0), then gain 2 more exp.
