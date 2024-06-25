@@ -1,7 +1,6 @@
 site_name: Pokétop RPG
 docs_dir: source
 site_dir: docs
-repo_url: https://github.com/TEParsons/Poketop-RPG
 site_url: https://TEParsons.github.io/Poketop-RPG
 
 theme:
