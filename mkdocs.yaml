@@ -2,7 +2,7 @@ site_name: Pokétop RPG
 # theme: torillic
 docs_dir: source
 site_dir: docs
-site_url: https://TEParsons.github.io/poketop
+site_url: https://TEParsons.github.io/Poketop-RPG
 
 nav:
   - ...
