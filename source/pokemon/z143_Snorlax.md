@@ -4,12 +4,11 @@
 ![Snorlax](https://img.pokemondb.net/sprites/home/normal/1x/snorlax.png)
 
 > **Type** Normal
-> **Health** 160 (+ 16\*lvl)
-> **Speed** -3
+> **Max Health** 160 + 16\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +1 | +0 | +0 | +1 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| -3 | +1 | +0 | +0 | +1 |
 
 ## Moves
 #### Level 1

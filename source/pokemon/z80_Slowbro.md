@@ -4,12 +4,11 @@
 ![Slowbro](https://img.pokemondb.net/sprites/home/normal/1x/slowbro.png)
 
 > **Type** Water / Psychic
-> **Health** 95 (+ 9\*lvl)
-> **Speed** -3
+> **Max Health** 95 + 9\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +0 | +1 | +1 | +0 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| -3 | +0 | +1 | +1 | +0 |
 
 ## Moves
 #### Level 1

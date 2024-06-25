@@ -4,12 +4,11 @@
 ![Omanyte](https://img.pokemondb.net/sprites/home/normal/1x/omanyte.png)
 
 > **Type** Rock / Water
-> **Health** 35 (+ 3\*lvl)
-> **Speed** -2
+> **Max Health** 35 + 3\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| -2 | +0 | +1 | -1 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| -2 | -2 | +0 | +1 | -1 |
 
 ## Moves
 #### Level 1

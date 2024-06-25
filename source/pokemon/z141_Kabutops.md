@@ -4,12 +4,11 @@
 ![Kabutops](https://img.pokemondb.net/sprites/home/normal/1x/kabutops.png)
 
 > **Type** Rock / Water
-> **Health** 60 (+ 6\*lvl)
-> **Speed** +0
+> **Max Health** 60 + 6\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +2 | +0 | +1 | +0 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| +0 | +2 | +0 | +1 | +0 |
 
 ## Moves
 #### Level 1

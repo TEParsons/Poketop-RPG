@@ -4,12 +4,11 @@
 ![Hitmonlee](https://img.pokemondb.net/sprites/home/normal/1x/hitmonlee.png)
 
 > **Type** Fighting
-> **Health** 50 (+ 5\*lvl)
-> **Speed** +0
+> **Max Health** 50 + 5\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +2 | -2 | -1 | +1 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| +0 | +2 | -2 | -1 | +1 |
 
 ## Moves
 #### Level 1

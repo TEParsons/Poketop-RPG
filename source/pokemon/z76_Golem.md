@@ -4,12 +4,11 @@
 ![Golem](https://img.pokemondb.net/sprites/home/normal/1x/golem.png)
 
 > **Type** Rock / Ground
-> **Health** 80 (+ 8\*lvl)
-> **Speed** -2
+> **Max Health** 80 + 8\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +2 | -1 | +3 | +0 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| -2 | +2 | -1 | +3 | +0 |
 
 ## Moves
 #### Level 1

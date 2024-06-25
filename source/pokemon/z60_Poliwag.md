@@ -4,12 +4,11 @@
 ![Poliwag](https://img.pokemondb.net/sprites/home/normal/1x/poliwag.png)
 
 > **Type** Water
-> **Health** 40 (+ 4\*lvl)
-> **Speed** +0
+> **Max Health** 40 + 4\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| -1 | -2 | -2 | -2 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| +0 | -1 | -2 | -2 | -2 |
 
 ## Moves
 #### Level 1

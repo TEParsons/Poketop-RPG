@@ -4,12 +4,11 @@
 ![Koffing](https://img.pokemondb.net/sprites/home/normal/1x/koffing.png)
 
 > **Type** Poison
-> **Health** 40 (+ 4\*lvl)
-> **Speed** -2
+> **Max Health** 40 + 4\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +0 | -1 | +0 | -2 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| -2 | +0 | -1 | +0 | -2 |
 
 ## Moves
 #### Level 1

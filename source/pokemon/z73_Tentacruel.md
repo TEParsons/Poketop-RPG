@@ -4,12 +4,11 @@
 ![Tentacruel](https://img.pokemondb.net/sprites/home/normal/1x/tentacruel.png)
 
 > **Type** Water / Poison
-> **Health** 80 (+ 8\*lvl)
-> **Speed** +1
+> **Max Health** 80 + 8\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +0 | +0 | +0 | +2 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| +1 | +0 | +0 | +0 | +2 |
 
 ## Moves
 #### Level 1

@@ -20,4 +20,3 @@ Types in Pokétop RPG work exactly the same as in the (Gen I, for now...) games.
 
 #### Matchups
 ![Type matchups chart](https://img.pokemondb.net/images/typechart-gen1.png)
-[*Full size*](https://img.pokemondb.net/images/typechart-gen1.png)

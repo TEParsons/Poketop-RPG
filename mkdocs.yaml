@@ -1,8 +1,13 @@
 site_name: Pokétop RPG
-# theme: torillic
 docs_dir: source
 site_dir: docs
+repo_url: https://github.com/TEParsons/Poketop-RPG
 site_url: https://TEParsons.github.io/Poketop-RPG
+
+theme:
+  name: mkdocs
+  user_color_mode_toggle: true
+  navigation_depth: 5
 
 nav:
   - ...
@@ -11,8 +16,8 @@ hooks:
   - utils/ipa.py
   - utils/links.py
 
-exclude_docs: |
-  desktop.ini
+extra_css:
+  - extra_style.css
 
 validation:
   absolute_links: ignore

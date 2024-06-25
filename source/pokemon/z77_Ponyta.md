@@ -4,12 +4,11 @@
 ![Ponyta](https://img.pokemondb.net/sprites/home/normal/1x/ponyta.png)
 
 > **Type** Fire
-> **Health** 50 (+ 5\*lvl)
-> **Speed** +0
+> **Max Health** 50 + 5\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +0 | +0 | -1 | +0 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| +0 | +0 | +0 | -1 | +0 |
 
 ## Moves
 #### Level 1

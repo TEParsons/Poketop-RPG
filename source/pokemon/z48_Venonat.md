@@ -4,12 +4,11 @@
 ![Venonat](https://img.pokemondb.net/sprites/home/normal/1x/venonat.png)
 
 > **Type** Bug / Poison
-> **Health** 60 (+ 6\*lvl)
-> **Speed** -2
+> **Max Health** 60 + 6\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| -1 | -2 | -1 | -1 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| -2 | -1 | -2 | -1 | -1 |
 
 ## Moves
 #### Level 1

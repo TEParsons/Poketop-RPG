@@ -4,12 +4,11 @@
 ![Omastar](https://img.pokemondb.net/sprites/home/normal/1x/omastar.png)
 
 > **Type** Rock / Water
-> **Health** 70 (+ 7\*lvl)
-> **Speed** -1
+> **Max Health** 70 + 7\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| -1 | +2 | +2 | +0 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| -1 | -1 | +2 | +2 | +0 |
 
 ## Moves
 #### Level 1

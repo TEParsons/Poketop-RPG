@@ -4,12 +4,11 @@
 ![Pidgeotto](https://img.pokemondb.net/sprites/home/normal/1x/pidgeotto.png)
 
 > **Type** Normal / Flying
-> **Health** 63 (+ 6\*lvl)
-> **Speed** +0
+> **Max Health** 63 + 6\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| -1 | -1 | -1 | -1 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| +0 | -1 | -1 | -1 | -1 |
 
 ## Moves
 #### Level 1

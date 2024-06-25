@@ -4,12 +4,11 @@
 ![Dewgong](https://img.pokemondb.net/sprites/home/normal/1x/dewgong.png)
 
 > **Type** Water / Ice
-> **Health** 90 (+ 9\*lvl)
-> **Speed** +0
+> **Max Health** 90 + 9\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +0 | +0 | +0 | +0 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| +0 | +0 | +0 | +0 | +0 |
 
 ## Moves
 #### Level 1

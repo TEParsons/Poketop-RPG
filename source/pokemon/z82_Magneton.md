@@ -4,12 +4,11 @@
 ![Magneton](https://img.pokemondb.net/sprites/home/normal/1x/magneton.png)
 
 > **Type** Electric / Steel
-> **Health** 50 (+ 5\*lvl)
-> **Speed** +0
+> **Max Health** 50 + 5\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| -1 | +2 | +0 | +0 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| +0 | -1 | +2 | +0 | +0 |
 
 ## Moves
 #### Level 1

@@ -4,12 +4,11 @@
 ![Zubat](https://img.pokemondb.net/sprites/home/normal/1x/zubat.png)
 
 > **Type** Poison / Flying
-> **Health** 40 (+ 4\*lvl)
-> **Speed** -1
+> **Max Health** 40 + 4\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| -2 | -3 | -2 | -2 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| -1 | -2 | -3 | -2 | -2 |
 
 ## Moves
 #### Level 1

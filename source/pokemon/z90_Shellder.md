@@ -4,12 +4,11 @@
 ![Shellder](https://img.pokemondb.net/sprites/home/normal/1x/shellder.png)
 
 > **Type** Water
-> **Health** 30 (+ 3\*lvl)
-> **Speed** -2
+> **Max Health** 30 + 3\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +0 | -2 | +1 | -3 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| -2 | +0 | -2 | +1 | -3 |
 
 ## Moves
 #### Level 1

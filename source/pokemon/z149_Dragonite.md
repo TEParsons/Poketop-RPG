@@ -4,12 +4,11 @@
 ![Dragonite](https://img.pokemondb.net/sprites/home/normal/1x/dragonite.png)
 
 > **Type** Dragon / Flying
-> **Health** 91 (+ 9\*lvl)
-> **Speed** +0
+> **Max Health** 91 + 9\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +3 | +1 | +0 | +1 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| +0 | +3 | +1 | +0 | +1 |
 
 ## Moves
 #### Level 1

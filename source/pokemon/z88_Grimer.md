@@ -4,12 +4,11 @@
 ![Grimer](https://img.pokemondb.net/sprites/home/normal/1x/grimer.png)
 
 > **Type** Poison
-> **Health** 80 (+ 8\*lvl)
-> **Speed** -3
+> **Max Health** 80 + 8\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +0 | -2 | -1 | -1 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| -3 | +0 | -2 | -1 | -1 |
 
 ## Moves
 #### Level 1

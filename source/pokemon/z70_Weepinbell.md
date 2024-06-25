@@ -4,12 +4,11 @@
 ![Weepinbell](https://img.pokemondb.net/sprites/home/normal/1x/weepinbell.png)
 
 > **Type** Grass / Poison
-> **Health** 65 (+ 6\*lvl)
-> **Speed** -1
+> **Max Health** 65 + 6\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +0 | +0 | -1 | -2 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| -1 | +0 | +0 | -1 | -2 |
 
 ## Moves
 #### Level 1

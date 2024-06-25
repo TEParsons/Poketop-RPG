@@ -4,12 +4,11 @@
 ![Golbat](https://img.pokemondb.net/sprites/home/normal/1x/golbat.png)
 
 > **Type** Poison / Flying
-> **Health** 75 (+ 7\*lvl)
-> **Speed** +0
+> **Max Health** 75 + 7\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +0 | +0 | +0 | +0 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| +0 | +0 | +0 | +0 | +0 |
 
 ## Moves
 #### Level 1

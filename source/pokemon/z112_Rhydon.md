@@ -4,12 +4,11 @@
 ![Rhydon](https://img.pokemondb.net/sprites/home/normal/1x/rhydon.png)
 
 > **Type** Ground / Rock
-> **Health** 105 (+ 10\*lvl)
-> **Speed** -2
+> **Max Health** 105 + 10\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +3 | -2 | +2 | -2 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| -2 | +3 | -2 | +2 | -2 |
 
 ## Moves
 #### Level 1

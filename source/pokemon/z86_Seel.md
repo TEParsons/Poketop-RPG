@@ -4,12 +4,11 @@
 ![Seel](https://img.pokemondb.net/sprites/home/normal/1x/seel.png)
 
 > **Type** Water
-> **Health** 65 (+ 6\*lvl)
-> **Speed** -2
+> **Max Health** 65 + 6\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| -2 | -2 | -1 | +0 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| -2 | -2 | -2 | -1 | +0 |
 
 ## Moves
 #### Level 1

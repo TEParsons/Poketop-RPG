@@ -4,12 +4,11 @@
 ![Kangaskhan](https://img.pokemondb.net/sprites/home/normal/1x/kangaskhan.png)
 
 > **Type** Normal
-> **Health** 105 (+ 10\*lvl)
-> **Speed** +0
+> **Max Health** 105 + 10\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +0 | -2 | +0 | +0 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| +0 | +0 | -2 | +0 | +0 |
 
 ## Moves
 #### Level 1

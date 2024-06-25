@@ -4,12 +4,11 @@
 ![Chansey](https://img.pokemondb.net/sprites/home/normal/1x/chansey.png)
 
 > **Type** Normal
-> **Health** 250 (+ 25\*lvl)
-> **Speed** -1
+> **Max Health** 250 + 25\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| -4 | -2 | -4 | +1 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| -1 | -4 | -2 | -4 | +1 |
 
 ## Moves
 #### Level 1

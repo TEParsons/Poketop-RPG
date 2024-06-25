@@ -4,12 +4,11 @@
 ![Psyduck](https://img.pokemondb.net/sprites/home/normal/1x/psyduck.png)
 
 > **Type** Water
-> **Health** 50 (+ 5\*lvl)
-> **Speed** -1
+> **Max Health** 50 + 5\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| -1 | +0 | -1 | -1 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| -1 | -1 | +0 | -1 | -1 |
 
 ## Moves
 #### Level 1

@@ -4,12 +4,11 @@
 ![Nidorina](https://img.pokemondb.net/sprites/home/normal/1x/nidorina.png)
 
 > **Type** Poison
-> **Health** 70 (+ 7\*lvl)
-> **Speed** -1
+> **Max Health** 70 + 7\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| -1 | -1 | +0 | -1 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| -1 | -1 | -1 | +0 | -1 |
 
 ## Moves
 #### Level 1

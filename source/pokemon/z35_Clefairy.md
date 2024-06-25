@@ -4,12 +4,11 @@
 ![Clefairy](https://img.pokemondb.net/sprites/home/normal/1x/clefairy.png)
 
 > **Type** Fairy
-> **Health** 70 (+ 7\*lvl)
-> **Speed** -2
+> **Max Health** 70 + 7\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| -2 | -1 | -1 | +0 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| -2 | -2 | -1 | -1 | +0 |
 
 ## Moves
 #### Level 1

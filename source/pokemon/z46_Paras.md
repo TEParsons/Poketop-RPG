@@ -4,12 +4,11 @@
 ![Paras](https://img.pokemondb.net/sprites/home/normal/1x/paras.png)
 
 > **Type** Bug / Grass
-> **Health** 35 (+ 3\*lvl)
-> **Speed** -3
+> **Max Health** 35 + 3\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +0 | -2 | -1 | -1 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| -3 | +0 | -2 | -1 | -1 |
 
 ## Moves
 #### Level 1

@@ -4,12 +4,11 @@
 ![Nidoking](https://img.pokemondb.net/sprites/home/normal/1x/nidoking.png)
 
 > **Type** Poison / Ground
-> **Health** 81 (+ 8\*lvl)
-> **Speed** +0
+> **Max Health** 81 + 8\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +1 | +0 | +0 | +0 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| +0 | +1 | +0 | +0 | +0 |
 
 ## Moves
 #### Level 0

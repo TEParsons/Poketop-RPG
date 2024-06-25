@@ -4,12 +4,11 @@
 ![Farfetch'd](https://img.pokemondb.net/sprites/home/normal/1x/farfetchd.png)
 
 > **Type** Normal / Flying
-> **Health** 52 (+ 5\*lvl)
-> **Speed** -1
+> **Max Health** 52 + 5\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +0 | -1 | -1 | -1 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| -1 | +0 | -1 | -1 | -1 |
 
 ## Moves
 #### Level 1

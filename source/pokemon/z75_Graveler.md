@@ -4,12 +4,11 @@
 ![Graveler](https://img.pokemondb.net/sprites/home/normal/1x/graveler.png)
 
 > **Type** Rock / Ground
-> **Health** 55 (+ 5\*lvl)
-> **Speed** -2
+> **Max Health** 55 + 5\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +0 | -2 | +2 | -2 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| -2 | +0 | -2 | +2 | -2 |
 
 ## Moves
 #### Level 1

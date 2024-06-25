@@ -4,12 +4,11 @@
 ![Nidorino](https://img.pokemondb.net/sprites/home/normal/1x/nidorino.png)
 
 > **Type** Poison
-> **Health** 61 (+ 6\*lvl)
-> **Speed** +0
+> **Max Health** 61 + 6\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +0 | -1 | -1 | -1 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| +0 | +0 | -1 | -1 | -1 |
 
 ## Moves
 #### Level 1

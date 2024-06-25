@@ -4,12 +4,11 @@
 ![Nidoran♂](https://img.pokemondb.net/sprites/home/normal/1x/nidoran-m.png)
 
 > **Type** Poison
-> **Health** 46 (+ 4\*lvl)
-> **Speed** -1
+> **Max Health** 46 + 4\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| -1 | -2 | -2 | -2 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| -1 | -1 | -2 | -2 | -2 |
 
 ## Moves
 #### Level 1

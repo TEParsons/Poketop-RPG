@@ -4,12 +4,11 @@
 ![Venomoth](https://img.pokemondb.net/sprites/home/normal/1x/venomoth.png)
 
 > **Type** Bug / Poison
-> **Health** 70 (+ 7\*lvl)
-> **Speed** +0
+> **Max Health** 70 + 7\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +0 | +0 | -1 | +0 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| +0 | +0 | +0 | -1 | +0 |
 
 ## Moves
 #### Level 0

@@ -4,12 +4,11 @@
 ![Lickitung](https://img.pokemondb.net/sprites/home/normal/1x/lickitung.png)
 
 > **Type** Normal
-> **Health** 90 (+ 9\*lvl)
-> **Speed** -3
+> **Max Health** 90 + 9\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| -1 | -1 | +0 | +0 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| -3 | -1 | -1 | +0 | +0 |
 
 ## Moves
 #### Level 1

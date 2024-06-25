@@ -4,12 +4,11 @@
 ![Gengar](https://img.pokemondb.net/sprites/home/normal/1x/gengar.png)
 
 > **Type** Ghost / Poison
-> **Health** 60 (+ 6\*lvl)
-> **Speed** +1
+> **Max Health** 60 + 6\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +0 | +3 | -1 | +0 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| +1 | +0 | +3 | -1 | +0 |
 
 ## Moves
 #### Level 1

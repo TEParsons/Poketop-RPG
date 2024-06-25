@@ -4,12 +4,11 @@
 ![Horsea](https://img.pokemondb.net/sprites/home/normal/1x/horsea.png)
 
 > **Type** Water
-> **Health** 30 (+ 3\*lvl)
-> **Speed** -1
+> **Max Health** 30 + 3\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| -2 | +0 | +0 | -3 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| -1 | -2 | +0 | +0 | -3 |
 
 ## Moves
 #### Level 1

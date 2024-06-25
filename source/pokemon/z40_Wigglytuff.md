@@ -4,12 +4,11 @@
 ![Wigglytuff](https://img.pokemondb.net/sprites/home/normal/1x/wigglytuff.png)
 
 > **Type** Normal / Fairy
-> **Health** 140 (+ 14\*lvl)
-> **Speed** -2
+> **Max Health** 140 + 14\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +0 | +0 | -2 | -1 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| -2 | +0 | +0 | -2 | -1 |
 
 ## Moves
 #### Level 1

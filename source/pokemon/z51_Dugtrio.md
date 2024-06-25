@@ -4,12 +4,11 @@
 ![Dugtrio](https://img.pokemondb.net/sprites/home/normal/1x/dugtrio.png)
 
 > **Type** Ground
-> **Health** 35 (+ 3\*lvl)
-> **Speed** +2
+> **Max Health** 35 + 3\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +0 | -1 | -1 | +0 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| +2 | +0 | -1 | -1 | +0 |
 
 ## Moves
 #### Level 1

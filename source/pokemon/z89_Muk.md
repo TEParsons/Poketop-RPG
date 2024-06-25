@@ -4,12 +4,11 @@
 ![Muk](https://img.pokemondb.net/sprites/home/normal/1x/muk.png)
 
 > **Type** Poison
-> **Health** 105 (+ 10\*lvl)
-> **Speed** -1
+> **Max Health** 105 + 10\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +1 | +0 | +0 | +1 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| -1 | +1 | +0 | +0 | +1 |
 
 ## Moves
 #### Level 1

@@ -4,12 +4,11 @@
 ![Jolteon](https://img.pokemondb.net/sprites/home/normal/1x/jolteon.png)
 
 > **Type** Electric
-> **Health** 65 (+ 6\*lvl)
-> **Speed** +3
+> **Max Health** 65 + 6\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +0 | +1 | -1 | +0 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| +3 | +0 | +1 | -1 | +0 |
 
 ## Moves
 #### Level 1

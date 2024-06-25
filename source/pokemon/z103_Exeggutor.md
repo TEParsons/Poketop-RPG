@@ -4,12 +4,11 @@
 ![Exeggutor](https://img.pokemondb.net/sprites/home/normal/1x/exeggutor.png)
 
 > **Type** Grass / Psychic
-> **Health** 95 (+ 9\*lvl)
-> **Speed** -1
+> **Max Health** 95 + 9\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +0 | +2 | +0 | +0 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| -1 | +0 | +2 | +0 | +0 |
 
 ## Moves
 #### Level 1

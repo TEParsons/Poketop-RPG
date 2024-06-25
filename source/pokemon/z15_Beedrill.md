@@ -4,12 +4,11 @@
 ![Beedrill](https://img.pokemondb.net/sprites/home/normal/1x/beedrill.png)
 
 > **Type** Bug / Poison
-> **Health** 65 (+ 6\*lvl)
-> **Speed** +0
+> **Max Health** 65 + 6\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +0 | -2 | -2 | +0 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| +0 | +0 | -2 | -2 | +0 |
 
 ## Moves
 #### Level 1

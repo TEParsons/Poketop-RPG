@@ -4,12 +4,11 @@
 ![Gastly](https://img.pokemondb.net/sprites/home/normal/1x/gastly.png)
 
 > **Type** Ghost / Poison
-> **Health** 30 (+ 3\*lvl)
-> **Speed** +0
+> **Max Health** 30 + 3\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| -2 | +1 | -3 | -2 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| +0 | -2 | +1 | -3 | -2 |
 
 ## Moves
 #### Level 1

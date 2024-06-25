@@ -4,12 +4,11 @@
 ![Marowak](https://img.pokemondb.net/sprites/home/normal/1x/marowak.png)
 
 > **Type** Ground
-> **Health** 60 (+ 6\*lvl)
-> **Speed** -2
+> **Max Health** 60 + 6\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +0 | -1 | +1 | +0 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| -2 | +0 | -1 | +1 | +0 |
 
 ## Moves
 #### Level 0

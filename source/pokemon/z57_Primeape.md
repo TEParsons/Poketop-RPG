@@ -4,12 +4,11 @@
 ![Primeape](https://img.pokemondb.net/sprites/home/normal/1x/primeape.png)
 
 > **Type** Fighting
-> **Health** 65 (+ 6\*lvl)
-> **Speed** +0
+> **Max Health** 65 + 6\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +1 | -1 | -1 | +0 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| +0 | +1 | -1 | -1 | +0 |
 
 ## Moves
 #### Level 0

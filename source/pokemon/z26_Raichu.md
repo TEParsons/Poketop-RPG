@@ -4,12 +4,11 @@
 ![Raichu](https://img.pokemondb.net/sprites/home/normal/1x/raichu.png)
 
 > **Type** Electric
-> **Health** 60 (+ 6\*lvl)
-> **Speed** +1
+> **Max Health** 60 + 6\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +0 | +0 | -1 | +0 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| +1 | +0 | +0 | -1 | +0 |
 
 ## Moves
 #### Level 1

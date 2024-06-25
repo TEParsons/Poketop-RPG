@@ -4,12 +4,11 @@
 ![Machop](https://img.pokemondb.net/sprites/home/normal/1x/machop.png)
 
 > **Type** Fighting
-> **Health** 70 (+ 7\*lvl)
-> **Speed** -2
+> **Max Health** 70 + 7\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +0 | -2 | -1 | -2 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| -2 | +0 | -2 | -1 | -2 |
 
 ## Moves
 #### Level 1

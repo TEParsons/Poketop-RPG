@@ -4,12 +4,11 @@
 ![Haunter](https://img.pokemondb.net/sprites/home/normal/1x/haunter.png)
 
 > **Type** Ghost / Poison
-> **Health** 45 (+ 4\*lvl)
-> **Speed** +0
+> **Max Health** 45 + 4\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| -1 | +2 | -2 | -1 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| +0 | -1 | +2 | -2 | -1 |
 
 ## Moves
 #### Level 1

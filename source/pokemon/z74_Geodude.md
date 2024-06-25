@@ -4,12 +4,11 @@
 ![Geodude](https://img.pokemondb.net/sprites/home/normal/1x/geodude.png)
 
 > **Type** Rock / Ground
-> **Health** 40 (+ 4\*lvl)
-> **Speed** -3
+> **Max Health** 40 + 4\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +0 | -3 | +1 | -3 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| -3 | +0 | -3 | +1 | -3 |
 
 ## Moves
 #### Level 1

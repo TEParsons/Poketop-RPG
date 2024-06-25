@@ -4,12 +4,11 @@
 ![Kakuna](https://img.pokemondb.net/sprites/home/normal/1x/kakuna.png)
 
 > **Type** Bug / Poison
-> **Health** 45 (+ 4\*lvl)
-> **Speed** -2
+> **Max Health** 45 + 4\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| -3 | -3 | -1 | -3 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| -2 | -3 | -3 | -1 | -3 |
 
 ## Moves
 #### Level 1

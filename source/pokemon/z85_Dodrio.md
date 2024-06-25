@@ -4,12 +4,11 @@
 ![Dodrio](https://img.pokemondb.net/sprites/home/normal/1x/dodrio.png)
 
 > **Type** Normal / Flying
-> **Health** 60 (+ 6\*lvl)
-> **Speed** +1
+> **Max Health** 60 + 6\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +1 | -1 | +0 | -1 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| +1 | +1 | -1 | +0 | -1 |
 
 ## Moves
 #### Level 1

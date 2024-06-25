@@ -4,12 +4,11 @@
 ![Voltorb](https://img.pokemondb.net/sprites/home/normal/1x/voltorb.png)
 
 > **Type** Electric
-> **Health** 40 (+ 4\*lvl)
-> **Speed** +1
+> **Max Health** 40 + 4\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| -3 | -1 | -1 | -1 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| +1 | -3 | -1 | -1 | -1 |
 
 ## Moves
 #### Level 1

@@ -4,12 +4,11 @@
 ![Dratini](https://img.pokemondb.net/sprites/home/normal/1x/dratini.png)
 
 > **Type** Dragon
-> **Health** 41 (+ 4\*lvl)
-> **Speed** -1
+> **Max Health** 41 + 4\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +0 | -1 | -2 | -1 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| -1 | +0 | -1 | -2 | -1 |
 
 ## Moves
 #### Level 1

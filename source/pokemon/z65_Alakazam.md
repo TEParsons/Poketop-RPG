@@ -4,12 +4,11 @@
 ![Alakazam](https://img.pokemondb.net/sprites/home/normal/1x/alakazam.png)
 
 > **Type** Psychic
-> **Health** 55 (+ 5\*lvl)
-> **Speed** +2
+> **Max Health** 55 + 5\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| -1 | +3 | -2 | +0 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| +2 | -1 | +3 | -2 | +0 |
 
 ## Moves
 #### Level 0

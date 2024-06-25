@@ -4,12 +4,11 @@
 ![%(name)s](https://img.pokemondb.net/sprites/home/normal/1x/%(name_lower)s.png)
 
 > **Type** %(type)s
-> **Health** %(hp)s (+ %(hp_mod)s\*lvl)
-> **Speed** %(speed_mod)s
+> **Max Health** %(hp)s + %(hp_mod)s\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| %(atk_mod)s | %(spatk_mod)s | %(def_mod)s | %(spdef_mod)s |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| %(speed_mod)s | %(atk_mod)s | %(spatk_mod)s | %(def_mod)s | %(spdef_mod)s |
 
 ## Moves
 %(moves)s

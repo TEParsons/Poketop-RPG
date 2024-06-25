@@ -4,12 +4,11 @@
 ![Magnemite](https://img.pokemondb.net/sprites/home/normal/1x/magnemite.png)
 
 > **Type** Electric / Steel
-> **Health** 25 (+ 2\*lvl)
-> **Speed** -2
+> **Max Health** 25 + 2\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| -2 | +0 | +0 | -1 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| -2 | -2 | +0 | +0 | -1 |
 
 ## Moves
 #### Level 1

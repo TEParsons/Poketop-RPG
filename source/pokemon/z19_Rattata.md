@@ -4,12 +4,11 @@
 ![Rattata](https://img.pokemondb.net/sprites/home/normal/1x/rattata.png)
 
 > **Type** Normal
-> **Health** 30 (+ 3\*lvl)
-> **Speed** +0
+> **Max Health** 30 + 3\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| -1 | -3 | -2 | -2 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| +0 | -1 | -3 | -2 | -2 |
 
 ## Moves
 #### Level 1

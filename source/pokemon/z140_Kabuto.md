@@ -4,12 +4,11 @@
 ![Kabuto](https://img.pokemondb.net/sprites/home/normal/1x/kabuto.png)
 
 > **Type** Rock / Water
-> **Health** 30 (+ 3\*lvl)
-> **Speed** -1
+> **Max Health** 30 + 3\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +0 | -1 | +0 | -2 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| -1 | +0 | -1 | +0 | -2 |
 
 ## Moves
 #### Level 1

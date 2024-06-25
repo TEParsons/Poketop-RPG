@@ -4,12 +4,11 @@
 ![Tentacool](https://img.pokemondb.net/sprites/home/normal/1x/tentacool.png)
 
 > **Type** Water / Poison
-> **Health** 40 (+ 4\*lvl)
-> **Speed** +0
+> **Max Health** 40 + 4\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| -2 | -1 | -2 | +1 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| +0 | -2 | -1 | -2 | +1 |
 
 ## Moves
 #### Level 1

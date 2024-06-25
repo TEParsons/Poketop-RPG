@@ -4,12 +4,11 @@
 ![Ekans](https://img.pokemondb.net/sprites/home/normal/1x/ekans.png)
 
 > **Type** Poison
-> **Health** 35 (+ 3\*lvl)
-> **Speed** -1
+> **Max Health** 35 + 3\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| -1 | -2 | -2 | -1 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| -1 | -1 | -2 | -2 | -1 |
 
 ## Moves
 #### Level 1

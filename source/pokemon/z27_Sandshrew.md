@@ -4,12 +4,11 @@
 ![Sandshrew](https://img.pokemondb.net/sprites/home/normal/1x/sandshrew.png)
 
 > **Type** Ground
-> **Health** 50 (+ 5\*lvl)
-> **Speed** -2
+> **Max Health** 50 + 5\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +0 | -3 | +0 | -3 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| -2 | +0 | -3 | +0 | -3 |
 
 ## Moves
 #### Level 1

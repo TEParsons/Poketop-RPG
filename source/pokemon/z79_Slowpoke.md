@@ -4,12 +4,11 @@
 ![Slowpoke](https://img.pokemondb.net/sprites/home/normal/1x/slowpoke.png)
 
 > **Type** Water / Psychic
-> **Health** 90 (+ 9\*lvl)
-> **Speed** -3
+> **Max Health** 90 + 9\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +0 | -2 | +0 | -2 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| -3 | +0 | -2 | +0 | -2 |
 
 ## Moves
 #### Level 1

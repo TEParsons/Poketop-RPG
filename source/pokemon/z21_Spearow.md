@@ -4,12 +4,11 @@
 ![Spearow](https://img.pokemondb.net/sprites/home/normal/1x/spearow.png)
 
 > **Type** Normal / Flying
-> **Health** 40 (+ 4\*lvl)
-> **Speed** +0
+> **Max Health** 40 + 4\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| -1 | -2 | -3 | -2 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| +0 | -1 | -2 | -3 | -2 |
 
 ## Moves
 #### Level 1

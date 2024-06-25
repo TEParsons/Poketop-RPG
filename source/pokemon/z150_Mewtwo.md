@@ -4,12 +4,11 @@
 ![Mewtwo](https://img.pokemondb.net/sprites/home/normal/1x/mewtwo.png)
 
 > **Type** Psychic
-> **Health** 106 (+ 10\*lvl)
-> **Speed** +3
+> **Max Health** 106 + 10\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +1 | +4 | +0 | +0 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| +3 | +1 | +4 | +0 | +0 |
 
 ## Moves
 #### Level 1

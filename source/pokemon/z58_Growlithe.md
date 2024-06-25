@@ -4,12 +4,11 @@
 ![Growlithe](https://img.pokemondb.net/sprites/home/normal/1x/growlithe.png)
 
 > **Type** Fire
-> **Health** 55 (+ 5\*lvl)
-> **Speed** -1
+> **Max Health** 55 + 5\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +0 | +0 | -2 | -1 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| -1 | +0 | +0 | -2 | -1 |
 
 ## Moves
 #### Level 1

@@ -4,12 +4,11 @@
 ![Electrode](https://img.pokemondb.net/sprites/home/normal/1x/electrode.png)
 
 > **Type** Electric
-> **Health** 60 (+ 6\*lvl)
-> **Speed** +3
+> **Max Health** 60 + 6\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| -1 | +0 | +0 | +0 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| +3 | -1 | +0 | +0 | +0 |
 
 ## Moves
 #### Level 1

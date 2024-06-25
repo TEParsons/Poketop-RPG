@@ -4,12 +4,11 @@
 ![Bulbasaur](https://img.pokemondb.net/sprites/home/normal/1x/bulbasaur.png)
 
 > **Type** Grass / Poison
-> **Health** 45 (+ 4\*lvl)
-> **Speed** -2
+> **Max Health** 45 + 4\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| -1 | +0 | -1 | +0 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| -2 | -1 | +0 | -1 | +0 |
 
 ## Moves
 #### Level 1

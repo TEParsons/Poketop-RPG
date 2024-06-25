@@ -4,12 +4,11 @@
 ![Mew](https://img.pokemondb.net/sprites/home/normal/1x/mew.png)
 
 > **Type** Psychic
-> **Health** 100 (+ 10\*lvl)
-> **Speed** +1
+> **Max Health** 100 + 10\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +1 | +1 | +1 | +1 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| +1 | +1 | +1 | +1 | +1 |
 
 ## Moves
 #### Level 1

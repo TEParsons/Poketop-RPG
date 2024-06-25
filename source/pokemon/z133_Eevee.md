@@ -4,12 +4,11 @@
 ![Eevee](https://img.pokemondb.net/sprites/home/normal/1x/eevee.png)
 
 > **Type** Normal
-> **Health** 55 (+ 5\*lvl)
-> **Speed** -1
+> **Max Health** 55 + 5\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| -1 | -2 | -1 | +0 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| -1 | -1 | -2 | -1 | +0 |
 
 ## Moves
 #### Level 1

@@ -4,12 +4,11 @@
 ![Fearow](https://img.pokemondb.net/sprites/home/normal/1x/fearow.png)
 
 > **Type** Normal / Flying
-> **Health** 65 (+ 6\*lvl)
-> **Speed** +1
+> **Max Health** 65 + 6\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +0 | -1 | +0 | -1 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| +1 | +0 | -1 | +0 | -1 |
 
 ## Moves
 #### Level 1

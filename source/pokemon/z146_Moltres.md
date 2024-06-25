@@ -4,12 +4,11 @@
 ![Moltres](https://img.pokemondb.net/sprites/home/normal/1x/moltres.png)
 
 > **Type** Fire / Flying
-> **Health** 90 (+ 9\*lvl)
-> **Speed** +0
+> **Max Health** 90 + 9\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +1 | +2 | +0 | +0 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| +0 | +1 | +2 | +0 | +0 |
 
 ## Moves
 #### Level 1

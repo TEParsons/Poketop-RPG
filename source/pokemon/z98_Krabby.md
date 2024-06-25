@@ -4,12 +4,11 @@
 ![Krabby](https://img.pokemondb.net/sprites/home/normal/1x/krabby.png)
 
 > **Type** Water
-> **Health** 30 (+ 3\*lvl)
-> **Speed** -1
+> **Max Health** 30 + 3\*lvl
 
-| Attack | Sp. Attack | Defence | Sp. Defence |
-| ------ | ---------- | ------- | ----------- |
-| +1 | -3 | +0 | -3 |
+| Speed | Attack | Sp. Attack | Defence | Sp. Defence |
+| ----- | ------ | ---------- | ------- | ----------- |
+| -1 | +1 | -3 | +0 | -3 |
 
 ## Moves
 #### Level 1
