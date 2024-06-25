@@ -4,7 +4,7 @@
 ![Pidgeot](https://img.pokemondb.net/sprites/home/normal/1x/pidgeot.png)
 
 > **Type** Normal / Flying
-> **Max Health** 83 + 8\*lvl
+> **Max Health** 41 + 4\*lvl
 
 | Speed | Attack | Sp. Attack | Defence | Sp. Defence |
 | ----- | ------ | ---------- | ------- | ----------- |

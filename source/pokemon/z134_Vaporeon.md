@@ -4,7 +4,7 @@
 ![Vaporeon](https://img.pokemondb.net/sprites/home/normal/1x/vaporeon.png)
 
 > **Type** Water
-> **Max Health** 130 + 13\*lvl
+> **Max Health** 65 + 6\*lvl
 
 | Speed | Attack | Sp. Attack | Defence | Sp. Defence |
 | ----- | ------ | ---------- | ------- | ----------- |

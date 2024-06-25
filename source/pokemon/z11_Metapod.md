@@ -4,7 +4,7 @@
 ![Metapod](https://img.pokemondb.net/sprites/home/normal/1x/metapod.png)
 
 > **Type** Bug
-> **Max Health** 50 + 5\*lvl
+> **Max Health** 25 + 2\*lvl
 
 | Speed | Attack | Sp. Attack | Defence | Sp. Defence |
 | ----- | ------ | ---------- | ------- | ----------- |

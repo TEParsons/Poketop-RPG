@@ -172,7 +172,7 @@ for _, row in stats.iterrows():
     attrs['name'] = row['Name']
     attrs['num'] = row['#']
     attrs['name_lower'] = row['Name'].lower().replace("'", "").replace("♀", "-f").replace("♂", "-m").replace(". ", "-")
-    attrs['hp'] = row['HP']
+    attrs['hp'] = int(row['HP'] / 2)
     # combine types
     attrs['type'] = row['Type 1']
     if not pd.isna(row['Type 2']):

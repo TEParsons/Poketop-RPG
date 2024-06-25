@@ -4,7 +4,7 @@
 ![Nidoran♀](https://img.pokemondb.net/sprites/home/normal/1x/nidoran-f.png)
 
 > **Type** Poison
-> **Max Health** 55 + 5\*lvl
+> **Max Health** 27 + 2\*lvl
 
 | Speed | Attack | Sp. Attack | Defence | Sp. Defence |
 | ----- | ------ | ---------- | ------- | ----------- |

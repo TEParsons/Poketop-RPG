@@ -4,7 +4,7 @@
 ![Nidoking](https://img.pokemondb.net/sprites/home/normal/1x/nidoking.png)
 
 > **Type** Poison / Ground
-> **Max Health** 81 + 8\*lvl
+> **Max Health** 40 + 4\*lvl
 
 | Speed | Attack | Sp. Attack | Defence | Sp. Defence |
 | ----- | ------ | ---------- | ------- | ----------- |

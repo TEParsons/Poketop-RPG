@@ -4,7 +4,7 @@
 ![Arcanine](https://img.pokemondb.net/sprites/home/normal/1x/arcanine.png)
 
 > **Type** Fire
-> **Max Health** 90 + 9\*lvl
+> **Max Health** 45 + 4\*lvl
 
 | Speed | Attack | Sp. Attack | Defence | Sp. Defence |
 | ----- | ------ | ---------- | ------- | ----------- |

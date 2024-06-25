@@ -4,7 +4,7 @@
 ![Vulpix](https://img.pokemondb.net/sprites/home/normal/1x/vulpix.png)
 
 > **Type** Fire
-> **Max Health** 38 + 3\*lvl
+> **Max Health** 19 + 1\*lvl
 
 | Speed | Attack | Sp. Attack | Defence | Sp. Defence |
 | ----- | ------ | ---------- | ------- | ----------- |

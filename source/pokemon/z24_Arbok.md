@@ -4,7 +4,7 @@
 ![Arbok](https://img.pokemondb.net/sprites/home/normal/1x/arbok.png)
 
 > **Type** Poison
-> **Max Health** 60 + 6\*lvl
+> **Max Health** 30 + 3\*lvl
 
 | Speed | Attack | Sp. Attack | Defence | Sp. Defence |
 | ----- | ------ | ---------- | ------- | ----------- |

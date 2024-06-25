@@ -4,7 +4,7 @@
 ![Meowth](https://img.pokemondb.net/sprites/home/normal/1x/meowth.png)
 
 > **Type** Normal
-> **Max Health** 40 + 4\*lvl
+> **Max Health** 20 + 2\*lvl
 
 | Speed | Attack | Sp. Attack | Defence | Sp. Defence |
 | ----- | ------ | ---------- | ------- | ----------- |

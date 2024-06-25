@@ -4,7 +4,7 @@
 ![Charmander](https://img.pokemondb.net/sprites/home/normal/1x/charmander.png)
 
 > **Type** Fire
-> **Max Health** 39 + 3\*lvl
+> **Max Health** 19 + 1\*lvl
 
 | Speed | Attack | Sp. Attack | Defence | Sp. Defence |
 | ----- | ------ | ---------- | ------- | ----------- |

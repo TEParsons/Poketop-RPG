@@ -4,7 +4,7 @@
 ![Diglett](https://img.pokemondb.net/sprites/home/normal/1x/diglett.png)
 
 > **Type** Ground
-> **Max Health** 10 + 1\*lvl
+> **Max Health** 5 + 0\*lvl
 
 | Speed | Attack | Sp. Attack | Defence | Sp. Defence |
 | ----- | ------ | ---------- | ------- | ----------- |

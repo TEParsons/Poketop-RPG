@@ -4,7 +4,7 @@
 ![Tauros](https://img.pokemondb.net/sprites/home/normal/1x/tauros.png)
 
 > **Type** Normal
-> **Max Health** 75 + 7\*lvl
+> **Max Health** 37 + 3\*lvl
 
 | Speed | Attack | Sp. Attack | Defence | Sp. Defence |
 | ----- | ------ | ---------- | ------- | ----------- |

@@ -4,7 +4,7 @@
 ![Blastoise](https://img.pokemondb.net/sprites/home/normal/1x/blastoise.png)
 
 > **Type** Water
-> **Max Health** 79 + 7\*lvl
+> **Max Health** 39 + 3\*lvl
 
 | Speed | Attack | Sp. Attack | Defence | Sp. Defence |
 | ----- | ------ | ---------- | ------- | ----------- |

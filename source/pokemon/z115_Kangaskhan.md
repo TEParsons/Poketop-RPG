@@ -4,7 +4,7 @@
 ![Kangaskhan](https://img.pokemondb.net/sprites/home/normal/1x/kangaskhan.png)
 
 > **Type** Normal
-> **Max Health** 105 + 10\*lvl
+> **Max Health** 52 + 5\*lvl
 
 | Speed | Attack | Sp. Attack | Defence | Sp. Defence |
 | ----- | ------ | ---------- | ------- | ----------- |

@@ -4,7 +4,7 @@
 ![Nidoqueen](https://img.pokemondb.net/sprites/home/normal/1x/nidoqueen.png)
 
 > **Type** Poison / Ground
-> **Max Health** 90 + 9\*lvl
+> **Max Health** 45 + 4\*lvl
 
 | Speed | Attack | Sp. Attack | Defence | Sp. Defence |
 | ----- | ------ | ---------- | ------- | ----------- |

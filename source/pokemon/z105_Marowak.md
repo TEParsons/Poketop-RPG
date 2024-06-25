@@ -4,7 +4,7 @@
 ![Marowak](https://img.pokemondb.net/sprites/home/normal/1x/marowak.png)
 
 > **Type** Ground
-> **Max Health** 60 + 6\*lvl
+> **Max Health** 30 + 3\*lvl
 
 | Speed | Attack | Sp. Attack | Defence | Sp. Defence |
 | ----- | ------ | ---------- | ------- | ----------- |

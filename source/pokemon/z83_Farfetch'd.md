@@ -4,7 +4,7 @@
 ![Farfetch'd](https://img.pokemondb.net/sprites/home/normal/1x/farfetchd.png)
 
 > **Type** Normal / Flying
-> **Max Health** 52 + 5\*lvl
+> **Max Health** 26 + 2\*lvl
 
 | Speed | Attack | Sp. Attack | Defence | Sp. Defence |
 | ----- | ------ | ---------- | ------- | ----------- |

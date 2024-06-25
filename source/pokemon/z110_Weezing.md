@@ -4,7 +4,7 @@
 ![Weezing](https://img.pokemondb.net/sprites/home/normal/1x/weezing.png)
 
 > **Type** Poison
-> **Max Health** 65 + 6\*lvl
+> **Max Health** 32 + 3\*lvl
 
 | Speed | Attack | Sp. Attack | Defence | Sp. Defence |
 | ----- | ------ | ---------- | ------- | ----------- |

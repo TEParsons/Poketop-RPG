@@ -4,7 +4,7 @@
 ![Gyarados](https://img.pokemondb.net/sprites/home/normal/1x/gyarados.png)
 
 > **Type** Water / Flying
-> **Max Health** 95 + 9\*lvl
+> **Max Health** 47 + 4\*lvl
 
 | Speed | Attack | Sp. Attack | Defence | Sp. Defence |
 | ----- | ------ | ---------- | ------- | ----------- |

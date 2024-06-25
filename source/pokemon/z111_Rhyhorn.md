@@ -4,7 +4,7 @@
 ![Rhyhorn](https://img.pokemondb.net/sprites/home/normal/1x/rhyhorn.png)
 
 > **Type** Ground / Rock
-> **Max Health** 80 + 8\*lvl
+> **Max Health** 40 + 4\*lvl
 
 | Speed | Attack | Sp. Attack | Defence | Sp. Defence |
 | ----- | ------ | ---------- | ------- | ----------- |

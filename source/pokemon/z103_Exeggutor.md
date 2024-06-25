@@ -4,7 +4,7 @@
 ![Exeggutor](https://img.pokemondb.net/sprites/home/normal/1x/exeggutor.png)
 
 > **Type** Grass / Psychic
-> **Max Health** 95 + 9\*lvl
+> **Max Health** 47 + 4\*lvl
 
 | Speed | Attack | Sp. Attack | Defence | Sp. Defence |
 | ----- | ------ | ---------- | ------- | ----------- |

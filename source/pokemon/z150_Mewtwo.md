@@ -4,7 +4,7 @@
 ![Mewtwo](https://img.pokemondb.net/sprites/home/normal/1x/mewtwo.png)
 
 > **Type** Psychic
-> **Max Health** 106 + 10\*lvl
+> **Max Health** 53 + 5\*lvl
 
 | Speed | Attack | Sp. Attack | Defence | Sp. Defence |
 | ----- | ------ | ---------- | ------- | ----------- |

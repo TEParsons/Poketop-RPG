@@ -4,7 +4,7 @@
 ![Zapdos](https://img.pokemondb.net/sprites/home/normal/1x/zapdos.png)
 
 > **Type** Electric / Flying
-> **Max Health** 90 + 9\*lvl
+> **Max Health** 45 + 4\*lvl
 
 | Speed | Attack | Sp. Attack | Defence | Sp. Defence |
 | ----- | ------ | ---------- | ------- | ----------- |

@@ -4,7 +4,7 @@
 ![Squirtle](https://img.pokemondb.net/sprites/home/normal/1x/squirtle.png)
 
 > **Type** Water
-> **Max Health** 44 + 4\*lvl
+> **Max Health** 22 + 2\*lvl
 
 | Speed | Attack | Sp. Attack | Defence | Sp. Defence |
 | ----- | ------ | ---------- | ------- | ----------- |

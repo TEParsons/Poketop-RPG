@@ -4,7 +4,7 @@
 ![Fearow](https://img.pokemondb.net/sprites/home/normal/1x/fearow.png)
 
 > **Type** Normal / Flying
-> **Max Health** 65 + 6\*lvl
+> **Max Health** 32 + 3\*lvl
 
 | Speed | Attack | Sp. Attack | Defence | Sp. Defence |
 | ----- | ------ | ---------- | ------- | ----------- |

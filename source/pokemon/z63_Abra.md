@@ -4,7 +4,7 @@
 ![Abra](https://img.pokemondb.net/sprites/home/normal/1x/abra.png)
 
 > **Type** Psychic
-> **Max Health** 25 + 2\*lvl
+> **Max Health** 12 + 1\*lvl
 
 | Speed | Attack | Sp. Attack | Defence | Sp. Defence |
 | ----- | ------ | ---------- | ------- | ----------- |

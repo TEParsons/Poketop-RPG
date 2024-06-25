@@ -4,7 +4,7 @@
 ![Poliwrath](https://img.pokemondb.net/sprites/home/normal/1x/poliwrath.png)
 
 > **Type** Water / Fighting
-> **Max Health** 90 + 9\*lvl
+> **Max Health** 45 + 4\*lvl
 
 | Speed | Attack | Sp. Attack | Defence | Sp. Defence |
 | ----- | ------ | ---------- | ------- | ----------- |

@@ -4,7 +4,7 @@
 ![Victreebel](https://img.pokemondb.net/sprites/home/normal/1x/victreebel.png)
 
 > **Type** Grass / Poison
-> **Max Health** 80 + 8\*lvl
+> **Max Health** 40 + 4\*lvl
 
 | Speed | Attack | Sp. Attack | Defence | Sp. Defence |
 | ----- | ------ | ---------- | ------- | ----------- |

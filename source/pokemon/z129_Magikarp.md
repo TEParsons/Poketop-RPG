@@ -4,7 +4,7 @@
 ![Magikarp](https://img.pokemondb.net/sprites/home/normal/1x/magikarp.png)
 
 > **Type** Water
-> **Max Health** 20 + 2\*lvl
+> **Max Health** 10 + 1\*lvl
 
 | Speed | Attack | Sp. Attack | Defence | Sp. Defence |
 | ----- | ------ | ---------- | ------- | ----------- |

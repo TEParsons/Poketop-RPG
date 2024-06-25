@@ -4,7 +4,7 @@
 ![Hypno](https://img.pokemondb.net/sprites/home/normal/1x/hypno.png)
 
 > **Type** Psychic
-> **Max Health** 85 + 8\*lvl
+> **Max Health** 42 + 4\*lvl
 
 | Speed | Attack | Sp. Attack | Defence | Sp. Defence |
 | ----- | ------ | ---------- | ------- | ----------- |

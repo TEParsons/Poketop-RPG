@@ -4,7 +4,7 @@
 ![Oddish](https://img.pokemondb.net/sprites/home/normal/1x/oddish.png)
 
 > **Type** Grass / Poison
-> **Max Health** 45 + 4\*lvl
+> **Max Health** 22 + 2\*lvl
 
 | Speed | Attack | Sp. Attack | Defence | Sp. Defence |
 | ----- | ------ | ---------- | ------- | ----------- |

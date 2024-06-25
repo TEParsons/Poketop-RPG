@@ -4,7 +4,7 @@
 ![Wartortle](https://img.pokemondb.net/sprites/home/normal/1x/wartortle.png)
 
 > **Type** Water
-> **Max Health** 59 + 5\*lvl
+> **Max Health** 29 + 2\*lvl
 
 | Speed | Attack | Sp. Attack | Defence | Sp. Defence |
 | ----- | ------ | ---------- | ------- | ----------- |

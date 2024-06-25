@@ -4,7 +4,7 @@
 ![Electabuzz](https://img.pokemondb.net/sprites/home/normal/1x/electabuzz.png)
 
 > **Type** Electric
-> **Max Health** 65 + 6\*lvl
+> **Max Health** 32 + 3\*lvl
 
 | Speed | Attack | Sp. Attack | Defence | Sp. Defence |
 | ----- | ------ | ---------- | ------- | ----------- |

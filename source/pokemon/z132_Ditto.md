@@ -4,7 +4,7 @@
 ![Ditto](https://img.pokemondb.net/sprites/home/normal/1x/ditto.png)
 
 > **Type** Normal
-> **Max Health** 48 + 4\*lvl
+> **Max Health** 24 + 2\*lvl
 
 | Speed | Attack | Sp. Attack | Defence | Sp. Defence |
 | ----- | ------ | ---------- | ------- | ----------- |

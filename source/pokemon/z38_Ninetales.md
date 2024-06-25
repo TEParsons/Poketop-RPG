@@ -4,7 +4,7 @@
 ![Ninetales](https://img.pokemondb.net/sprites/home/normal/1x/ninetales.png)
 
 > **Type** Fire
-> **Max Health** 73 + 7\*lvl
+> **Max Health** 36 + 3\*lvl
 
 | Speed | Attack | Sp. Attack | Defence | Sp. Defence |
 | ----- | ------ | ---------- | ------- | ----------- |

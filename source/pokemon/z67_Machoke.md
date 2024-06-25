@@ -4,7 +4,7 @@
 ![Machoke](https://img.pokemondb.net/sprites/home/normal/1x/machoke.png)
 
 > **Type** Fighting
-> **Max Health** 80 + 8\*lvl
+> **Max Health** 40 + 4\*lvl
 
 | Speed | Attack | Sp. Attack | Defence | Sp. Defence |
 | ----- | ------ | ---------- | ------- | ----------- |

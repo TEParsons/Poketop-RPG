@@ -4,7 +4,7 @@
 ![Dragonair](https://img.pokemondb.net/sprites/home/normal/1x/dragonair.png)
 
 > **Type** Dragon
-> **Max Health** 61 + 6\*lvl
+> **Max Health** 30 + 3\*lvl
 
 | Speed | Attack | Sp. Attack | Defence | Sp. Defence |
 | ----- | ------ | ---------- | ------- | ----------- |

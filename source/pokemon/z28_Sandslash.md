@@ -4,7 +4,7 @@
 ![Sandslash](https://img.pokemondb.net/sprites/home/normal/1x/sandslash.png)
 
 > **Type** Ground
-> **Max Health** 75 + 7\*lvl
+> **Max Health** 37 + 3\*lvl
 
 | Speed | Attack | Sp. Attack | Defence | Sp. Defence |
 | ----- | ------ | ---------- | ------- | ----------- |

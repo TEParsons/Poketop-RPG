@@ -4,7 +4,7 @@
 ![Doduo](https://img.pokemondb.net/sprites/home/normal/1x/doduo.png)
 
 > **Type** Normal / Flying
-> **Max Health** 35 + 3\*lvl
+> **Max Health** 17 + 1\*lvl
 
 | Speed | Attack | Sp. Attack | Defence | Sp. Defence |
 | ----- | ------ | ---------- | ------- | ----------- |

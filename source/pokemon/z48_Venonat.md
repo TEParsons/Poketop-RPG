@@ -4,7 +4,7 @@
 ![Venonat](https://img.pokemondb.net/sprites/home/normal/1x/venonat.png)
 
 > **Type** Bug / Poison
-> **Max Health** 60 + 6\*lvl
+> **Max Health** 30 + 3\*lvl
 
 | Speed | Attack | Sp. Attack | Defence | Sp. Defence |
 | ----- | ------ | ---------- | ------- | ----------- |

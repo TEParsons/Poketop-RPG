@@ -4,7 +4,7 @@
 ![Jigglypuff](https://img.pokemondb.net/sprites/home/normal/1x/jigglypuff.png)
 
 > **Type** Normal / Fairy
-> **Max Health** 115 + 11\*lvl
+> **Max Health** 57 + 5\*lvl
 
 | Speed | Attack | Sp. Attack | Defence | Sp. Defence |
 | ----- | ------ | ---------- | ------- | ----------- |

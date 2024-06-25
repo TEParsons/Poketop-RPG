@@ -4,7 +4,7 @@
 ![Vileplume](https://img.pokemondb.net/sprites/home/normal/1x/vileplume.png)
 
 > **Type** Grass / Poison
-> **Max Health** 75 + 7\*lvl
+> **Max Health** 37 + 3\*lvl
 
 | Speed | Attack | Sp. Attack | Defence | Sp. Defence |
 | ----- | ------ | ---------- | ------- | ----------- |
